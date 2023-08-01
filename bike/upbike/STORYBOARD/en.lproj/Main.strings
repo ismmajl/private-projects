@@ -1,0 +1,201 @@
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "0MR-O6-J6L"; */
+"0MR-O6-J6L.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "PRO ONLY"; ObjectID = "2Kg-qR-6Ga"; */
+"2Kg-qR-6Ga.normalTitle" = "PRO ONLY";
+
+/* Class = "UILabel"; text = "ALTITUDE HISTORY"; ObjectID = "4zq-Vs-WSn"; */
+"4zq-Vs-WSn.text" = "ALTITUDE HISTORY";
+
+/* Class = "UILabel"; text = "km/h"; ObjectID = "6Mf-sX-0be"; */
+"6Mf-sX-0be.text" = "km/h";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "6bv-fD-0iR"; */
+"6bv-fD-0iR.text" = "---";
+
+/* Class = "UILabel"; text = "Calories burned"; ObjectID = "6pk-e8-dz6"; */
+"6pk-e8-dz6.text" = "Calories burned";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "70P-SJ-Mpz"; */
+"70P-SJ-Mpz.text" = "---";
+
+/* Class = "UINavigationItem"; title = "SET YOUR GOAL"; ObjectID = "7g6-By-316"; */
+"7g6-By-316.title" = "SET YOUR GOAL";
+
+/* Class = "UILabel"; text = "Exhausting"; ObjectID = "7uq-Nt-C8Z"; */
+"7uq-Nt-C8Z.text" = "Exhausting";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "89E-Hn-Fnd"; */
+"89E-Hn-Fnd.text" = "---";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "9ny-vR-1Yw"; */
+"9ny-vR-1Yw.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "AMo-AT-Q7E"; */
+"AMo-AT-Q7E.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "DhH-gH-k6W"; */
+"DhH-gH-k6W.normalTitle" = "Upgrade";
+
+/* Class = "UILabel"; text = "Max. speed"; ObjectID = "FYa-kF-FMW"; */
+"FYa-kF-FMW.text" = "Max. speed";
+
+/* Class = "UIButton"; normalTitle = "PRO ONLY"; ObjectID = "GJb-Sf-bxH"; */
+"GJb-Sf-bxH.normalTitle" = "PRO ONLY";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "Gu3-g5-Ql0"; */
+"Gu3-g5-Ql0.text" = "00";
+
+/* Class = "UILabel"; text = "SPEED HISTORY"; ObjectID = "Hpq-AC-TkA"; */
+"Hpq-AC-TkA.text" = "SPEED HISTORY";
+
+/* Class = "UILabel"; text = "60"; ObjectID = "IdG-j1-Z4H"; */
+"IdG-j1-Z4H.text" = "60";
+
+/* Class = "UILabel"; text = "RIDE DESCRIPTION"; ObjectID = "JyR-ga-8hy"; */
+"JyR-ga-8hy.text" = "RIDE DESCRIPTION";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "K7z-gQ-Kmd"; */
+"K7z-gQ-Kmd.text" = "00";
+
+/* Class = "UILabel"; text = "15"; ObjectID = "KCR-gD-4yL"; */
+"KCR-gD-4yL.text" = "15";
+
+/* Class = "UILabel"; text = "45"; ObjectID = "Kyl-zV-kfz"; */
+"Kyl-zV-kfz.text" = "45";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "Lnl-J1-WcW"; */
+"Lnl-J1-WcW.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "LvW-Im-Pr2"; */
+"LvW-Im-Pr2.text" = "Distance";
+
+/* Class = "UIButton"; normalTitle = "Save details"; ObjectID = "NHE-nh-7cP"; */
+"NHE-nh-7cP.normalTitle" = "Save details";
+
+/* Class = "UIButton"; selectedTitle = "STOP"; ObjectID = "NHE-nh-7cP"; */
+"NHE-nh-7cP.selectedTitle" = "STOP";
+
+/* Class = "UILabel"; text = "Min altitude"; ObjectID = "OS2-Fp-yN8"; */
+"OS2-Fp-yN8.text" = "Min altitude";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "OSz-ft-BTs"; */
+"OSz-ft-BTs.text" = "---";
+
+/* Class = "UILabel"; text = "SPEED HISTORY"; ObjectID = "OXC-Iy-Sq1"; */
+"OXC-Iy-Sq1.text" = "SPEED HISTORY";
+
+/* Class = "UILabel"; text = "HOW DID THE RIDE FEEL"; ObjectID = "QL7-Nv-tuM"; */
+"QL7-Nv-tuM.text" = "HOW DID THE RIDE FEEL";
+
+/* Class = "UILabel"; text = "Current speed"; ObjectID = "RKE-Ns-ln6"; */
+"RKE-Ns-ln6.text" = "Current speed";
+
+/* Class = "UILabel"; text = "Calories burned"; ObjectID = "Sn2-Ea-FXp"; */
+"Sn2-Ea-FXp.text" = "Calories burned";
+
+/* Class = "UILabel"; text = "Awesome free ride"; ObjectID = "ThQ-66-rLF"; */
+"ThQ-66-rLF.text" = "Awesome free ride";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "U0U-C4-yGf"; */
+"U0U-C4-yGf.text" = "0.0";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "UDQ-7f-40K"; */
+"UDQ-7f-40K.normalTitle" = "Upgrade";
+
+/* Class = "UILabel"; text = "RIDE DIFFICULTY"; ObjectID = "UbB-IF-pTu"; */
+"UbB-IF-pTu.text" = "RIDE DIFFICULTY";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Wh8-fm-YQn"; */
+"Wh8-fm-YQn.text" = "0";
+
+/* Class = "UILabel"; text = "RIDE START & END TIME"; ObjectID = "Wxk-SW-Iik"; */
+"Wxk-SW-Iik.text" = "RIDE START & END TIME";
+
+/* Class = "UILabel"; text = "This is a PRO feature\n\nGet COMBIKE PRO to unlock this and more features."; ObjectID = "XYD-fK-1J9"; */
+"XYD-fK-1J9.text" = "This is a PRO feature\n\nGet COMBIKE PRO to unlock this and more features.";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zbj-NL-FF7"; */
+"Zbj-NL-FF7.text" = "0";
+
+/* Class = "UILabel"; text = "RIDE DESCRIPTION"; ObjectID = "b87-xS-klb"; */
+"b87-xS-klb.text" = "RIDE DESCRIPTION";
+
+/* Class = "UILabel"; text = "Avg. speed"; ObjectID = "c81-3a-CY7"; */
+"c81-3a-CY7.text" = "Avg. speed";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "d9r-0U-OGK"; */
+"d9r-0U-OGK.text" = "Distance";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "e3M-Pq-RDm"; */
+"e3M-Pq-RDm.text" = "---";
+
+/* Class = "UILabel"; text = "km/h"; ObjectID = "fXq-qr-oHW"; */
+"fXq-qr-oHW.text" = "km/h";
+
+/* Class = "UILabel"; text = "Moderate"; ObjectID = "gLK-es-Wem"; */
+"gLK-es-Wem.text" = "Moderate";
+
+/* Class = "UILabel"; text = "Moderate"; ObjectID = "hEG-pM-jvX"; */
+"hEG-pM-jvX.text" = "Moderate";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "hO1-YR-9NY"; */
+"hO1-YR-9NY.text" = "---";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "hwt-vn-8kJ"; */
+"hwt-vn-8kJ.text" = "0.0";
+
+/* Class = "UILabel"; text = "Easy"; ObjectID = "iJg-zL-2QQ"; */
+"iJg-zL-2QQ.text" = "Easy";
+
+/* Class = "UILabel"; text = "ALTITUDE HISTORY"; ObjectID = "jbu-eD-t6e"; */
+"jbu-eD-t6e.text" = "ALTITUDE HISTORY";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "jiy-OL-GQq"; */
+"jiy-OL-GQq.text" = "Time";
+
+/* Class = "UILabel"; text = "This is a PRO feature\n\nGet COMBIKE PRO to unlock this and more features."; ObjectID = "kFB-2d-IQC"; */
+"kFB-2d-IQC.text" = "This is a PRO feature\n\nGet COMBIKE PRO to unlock this and more features.";
+
+/* Class = "UILabel"; text = "Avg. speed"; ObjectID = "keI-Do-ZZU"; */
+"keI-Do-ZZU.text" = "Avg. speed";
+
+/* Class = "UILabel"; text = "Calories burned"; ObjectID = "krh-d8-6GU"; */
+"krh-d8-6GU.text" = "Calories burned";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "lWI-qG-5NE"; */
+"lWI-qG-5NE.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "n2w-Js-EU0"; */
+"n2w-Js-EU0.text" = "---";
+
+/* Class = "UILabel"; text = "12:00"; ObjectID = "plI-ye-RR2"; */
+"plI-ye-RR2.text" = "12:00";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "qRN-XS-efL"; */
+"qRN-XS-efL.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "rRQ-9O-5np"; */
+"rRQ-9O-5np.text" = "---";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "t6h-sf-G0Z"; */
+"t6h-sf-G0Z.text" = "00:00";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "vxm-Ev-o2u"; */
+"vxm-Ev-o2u.text" = "30";
+
+/* Class = "UILabel"; text = "RIDE TITLE"; ObjectID = "wxN-fh-A75"; */
+"wxN-fh-A75.text" = "RIDE TITLE";
+
+/* Class = "UILabel"; text = "Calories burned"; ObjectID = "xbK-yl-Npv"; */
+"xbK-yl-Npv.text" = "Calories burned";
+
+/* Class = "UILabel"; text = "Max altitude"; ObjectID = "ymE-dv-PF9"; */
+"ymE-dv-PF9.text" = "Max altitude";
+
+/* Class = "UILabel"; text = "Max. speed"; ObjectID = "z1A-0F-rRl"; */
+"z1A-0F-rRl.text" = "Max. speed";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "zeY-VZ-lTH"; */
+"zeY-VZ-lTH.text" = "0";

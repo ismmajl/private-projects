@@ -1,0 +1,181 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Din tur";
+"General.label.Time" = "Tid";
+"General.label.Distance" = "Afstand";
+"General.label.Calories" = "Kalorier";
+"General.label.MaxSpeed" = "Højeste hastighed";
+"General.label.CurrentSpeed" = "Nuværende hastighed";
+"General.label.AverageSpeed" = "Gennemsnitlig hastighed";
+"General.label.MinAltitude" = "Min højde";
+"General.label.MaxAltitude" = "Max højde";
+"General.label.CaloriesBurned" = "Kalorier forbrændt";
+"General.action.Select" = "VÆLG";
+"General.action.Cancel" = "Afbestil";
+"General.action.Delete" = "Slet";
+"General.action.Confirm" = "Bekræft";
+"General.action.Continue" = "FORTSÆT";
+"General.action.Warning" = "Advarsel";
+"General.action.OK" = "OK";
+"General.action.Close" = "Luk";
+"General.action.Settings" = "Indstillinger";
+"General.action.Notification" = "Notifikation";
+"General.action.Yes" = "Ja";
+"General.action.No" = "Ingen";
+
+"PrivacyPolicy.label.Title" = "Privatlivspolitik";
+"PrivacyPolicy.label.MainTitle" = "For at bruge combike skal du acceptere vores privatlivspolitik. Klik her for at læse den online.";
+"PrivacyPolicy.label.MainSubtitle" = "Jeg accepterer privatlivspolitikken";
+"PrivacyPolicy.label.SelectedLabel" = "Klik her";
+
+"Introduction.page1.label.Title" = "VELKOMMEN";
+"Introduction.page1.label.Subtitle" = "Nyd den nemmeste måde at spore dine cykelture og din kondition";
+"Introduction.page1.label.Bullet1" = "Lær din præstation at kende - alle vigtige mål på et øjeblik";
+"Introduction.page1.label.Bullet2" = "Sæt forskellige mål for at skubbe dine grænser";
+"Introduction.page1.label.Bullet3" = "Hold styr på dine ruter og se dine fremskidt";
+"Introduction.page2.label.Title" = "INDTAST DIN VÆGT";
+"Introduction.page2.label.Subtitle" = "Indtast venligst din vægt, så vi kan spore dit kalorieforbrug.";
+"Introduction.page3.label.Title" = "RÅD: CELLULÆRT NETVÆRK";
+"Introduction.page3.label.Subtitle" = "Brug mobildatanetværk til at forbedre nøjagtigheden af ​​de viste data.";
+"Introduction.page4.label.Title" = "Bliv PRO-medlem";
+"Introduction.page4.label.Subtitle" = "Nyd en annoncefri oplevelse og nyd godt af mange nye kommende funktioner!";
+"Introduction.page4.label.Bullet1" = "Ingen annoncer";
+
+"Introduction.page4.label.Bullet2" = "Målsætning og nye kortmuligheder";
+"Introduction.page4.label.Bullet3" = "Eksporter dine ture som (.gpx) filer";
+"Introduction.page4.label.Yearly" = "årlig";
+"Introduction.page4.label.Monthly" = "månedlig";
+"Introduction.page4.label.SaveMoney" = "Spar op til 70 %";
+"Introduction.page4.label.pricePaymentTrial" = "7 dages gratis prøveperiode";
+"Introduction.action.Next" = "NÆSTE!";
+
+"Introduction.action.GetStarted" = "KOM IGANG";
+"Introduction.action.Continue" = "FORTSÆT UDEN FORDELE";
+ 
+ 
+"Introduction.shareLocation.label.Title" = "DEL LOKATION";
+"Introduction.shareLocation.label.MainTitle" = "AKTIVER LOKATION MED COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike har brug for din placering til at beregne din hastighed og andre målinger.";
+"Introduction.shareLocation.action.EnableLocation" = "Aktiver lokation";
+
+
+"History.label.Title" = "HISTORIE";
+"History.label.NoRides" = "Der er ingen registrerede ture for denne dato.";
+ 
+
+"Main.action.Start" = "START";
+"Main.action.Pause" = "PAUSE";
+"Main.action.Resume" = "GENOPTAG";
+"Main.action.Stop" = "STOP";
+ 
+"Map.label.Title" = "KORT";
+
+"Mode.label.Title" = "SÆT DIT MÅL";
+"Mode.label.cell1.Title" = "TID";
+"Mode.label.cell1.Subtitle" = "Kør mod uret";
+"Mode.label.cell2.Title" = "AFSTAND";
+"Mode.label.cell2.Subtitle " = "Hvad er det længste du kan gå?";
+"Mode.label.cell3.Title" = "KALORIER";
+"Mode.label.cell3.Subtitle" =  "Kør for at forbrænde kalorier";
+ 
+ 
+"Congratulations.label.Title" = "TILLYKKE";
+"Congratulations.label.Subtitle" = "Det var en solid tur!";
+"Congratulations.action.Share" = "Del tur";
+ 
+"RideDetails.label.StartEndTime" = "TURENS START- OG SLUTTID";
+"RideDetails.label.RideTitle" = "TURENS TITEL";
+"RideDetails.label.RideDecription" = "TUREND BESKRIVELSE";
+"RideDetails.label.RideFeel" = "HVORDAN FØLES TUREN?";
+"RideDetails.label.RideDifficulty" = "TURENS SVÆRHEDSGRAD";
+"RideDetails.label.SpeedHistory" = "HASTIGHEDSHISTORIK";
+"RideDetails.label.AltitudeHistory" = "HØJDEHISTORIK";
+"RideDetails.label.ProOnly" = "KUN PRO";
+"RideDetails.label.UpgradeToPro" = "Dette er en PRO-funktion\n\n Få COMBIKE PRO for at låse op for denne og flere funktioner.";
+"RideDetails.action.Upgrade" = "Lås op";
+"RideDetails.label.UpgradeToAccess" = "Opgrader for at få adgang til avanceret statistik.";
+"RideDetails.label.AddImages" = "Tilføj billeder til din tur";
+"RideDetails.label.Easy" = "Let";
+"RideDetails.label.Moderate" = "Moderat";
+"RideDetails.label.Exhausting" = "Anstregende";
+"RideDetails.action.SaveDetails" = "Gem detaljer";
+"RideDetails.action.GPX" = "Eksporter rute som .GPX";
+"RideDetails.label.NoData" = "Ingen tilgængelig data";
+ 
+"Settings.label.Title" = "INDSTILLINGER";
+"Settings.option1.label.Title" = "BLIV EN PRO BRUGER";
+"Settings.option1.label.Subtitle" = "Lås op for alle funktionerne";
+"Settings.option2.label.Title" = "VÆGT ENHED";
+"Settings.option2.label.Subtitle" = "Vælg vægtenhed";
+"Settings.option3.label.Title" = "DIN VÆGT";
+"Settings.option3.label.Subtitle" = "Indstil din vægt";
+"Settings.option4.label.Title" = "AFSTANDSENHED";
+"Settings.option4.label.Subtitle" = "Vælg afstandsenhed";
+"Settings.option5.label.Title" = "LYD NOTIFIKATION";
+"Settings.option5.label.Subtitle" = "Slå lydnotifikation til eller fra";
+"Settings.option6.label.Title" = "AUTO PAUSE";
+"Settings.option6.label.Subtitle" = "Hold pause efter du er inaktiv i:";
+"Settings.option7.label.Title" = "PRIVATLIVSPOLITIK";
+"Settings.option7.label.Subtitle" = "Link til privatlivspolitikken";
+"Settings.option8.label.Title" = "GENDAN KØB";
+"Settings.option8.label.Subtitle" = "Gendan dit køb";
+"Settings.label.Version" = "version";
+
+"Misc.rideProgress.label.Title" = "Der er allerede en aktiv tur\nkører i baggrunden.";
+"Misc.rideProgress.label.Subtitle" = "Vil du starte en ny?\nDen nuværende vil blive stoppet.";
+
+"Misc.rideProgress.action.Cancel" = "Stop ikke";
+"Misc.rideProgress.action.Continue" = "Ja, stop den nuværende tur";
+"Misc.deleteRide.label.Title" = "Vil du slette turen?";
+"Misc.deleteRide.label.Subtitle" = "Du er ved at slette den valgte tur. Ønsker du at fortsætte?";
+"Misc.setGoals.label.Title" = "Sæt venligst dit mål";
+"Misc.setGoals.label.TextfieldPlaceholder" = "for eksempel 15";
+"Misc.selectWeight.label.Title" = "Vælg vægtenhed";
+
+"Map.alert.Title" = "Vælg en kortstil";
+"Map.alert.Selection1" = "Standard";
+"Map.alert.Selection2" = "Hybrid";
+"Map.alert.Selection2Pro" = "Hybrid (kun Pro)";
+"Map.alert.Selection3" = "Satellit";
+"Map.alert.Selection3Pro" = "Satellit (kun Pro)";
+
+"RideDetails.alert.ChooseImage" = "Vælg Billede";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Galleri";
+"RideDetails.alert.CameraWarning" = "Du har ikke tilladelse til at få adgang til";
+
+"History.alert.ClearHistory" = "Er du sikker på, at du vil rydde historikken?";
+"Settings.alert.NotificationTitle" = "Notifikationer er ikke tilladt.";
+"Settings.alert.NotificationSubtitle" = "Tilladelser er nødvendige for underretning";
+"Settings.alert.PurchaseTitle" = "Noget gik galt.";
+"Settings.alert.PurchaseSubtitle" = "Prøv igen senere.";
+"Settings.alert.InvalidProduct" = "Ugyldigt produkt";
+"Settings.alert.ExpiredSince" = "Dit abonnement er udløbet siden %d";
+
+"HistoryFilter.label.AllTime" = "Hele tiden";
+"HistoryFilter.label.Monthly" = "Månedlig";
+"HistoryFilter.label.Daily" = "Daglig";
+"RideMessageType.label.RideInProgress" = "Tur i gang";
+"RideMessageType.label.RideGoalReached" = "Turens mål er nået";
+"RideMode.desc.Default" = "Kør uden fastsat mål";
+"RideMode.desc.Time" = "Kør mod uret";
+"RideMode.desc.Distance" = "Kør miles eller kilometer";
+"RideMode.desc.Calories" = "Kør for at forbrænde kalorier";
+"Sharing.action.Title" = "Hej, tjek min tur på COMBIKE!";
+
+
+"General.action.Change" = "Lave om";
+"Introduction.page4.label.FreeTrial" = "Du er fri til at annullere dit abonnement i appen App Store når som helst";
+"Introduction.action.Start" = "Fortsæt med Combike Pro";
+"Settings.option9.label.Title" = "SKIFT SPROG";
+"Settings.option9.label.Subtitle" = "Skift manuelt appsprog manuelt";
+"Misc.changeLanguage.label.Title" = "Skift sprog?";
+"Misc.changeLanguage.label.Subtitle" = "Dette vil stoppe den aktuelle tur. Ønsker du at ændre det?";
+"PrivacyPolicy.alert.Title" = "Du skal acceptere fortrolighedspolitikken for at fortsætte.";

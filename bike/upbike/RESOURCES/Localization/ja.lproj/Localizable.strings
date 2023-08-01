@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "お客様のライド";
+"General.label.Time" = "時間";
+"General.label.Distance" = "距離";
+"General.label.Calories" = "カロリー";
+"General.label.MaxSpeed" = "最大速度";
+"General.label.CurrentSpeed" = "現在速度";
+"General.label.AverageSpeed" = "平均速度";
+"General.label.MinAltitude" = "最低高度";
+"General.label.MaxAltitude" = "最高高度";
+"General.label.CaloriesBurned" = "燃焼カロリー";
+"General.action.Select" = "選択";
+"General.action.Cancel" = "キャンセル";
+"General.action.Delete" = "削除";
+"General.action.Confirm" = "確認";
+"General.action.Continue" = "続ける";
+"General.action.Warning" = "警告";
+"General.action.OK" = "OK";
+"General.action.Close" = "閉じる";
+"General.action.Settings" = "設定";
+"General.action.Notification" = "通知";
+"General.action.Yes" = "はい";
+"General.action.No" = "いいえ";
+ 
+"PrivacyPolicy.label.Title" = "プライバシーポリシー";
+"PrivacyPolicy.label.MainTitle" = "COMBIKEをご利用いただくには、当社のプライバシーポリシーに同意していただく必要があります。オンラインで読むには、ここにアクセスしてください。";
+"PrivacyPolicy.label.MainSubtitle" = "プライバシーポリシーに同意します";
+"PrivacyPolicy.label.SelectedLabel" = "こちらをクリック してください";
+ 
+"Introduction.page1.label.Title" = "ようこそ";
+"Introduction.page1.label.Subtitle" = "フィットネスやサイクリングの記録を、できるだけシンプルな方法で楽しみましょう！";
+"Introduction.page1.label.Bullet1" = "すべての主要な指標を一目で見ることができ、パフォーマンスについてより詳しく知ることができます";
+"Introduction.page1.label.Bullet2" = "自分の限界を試すために、何種類かの目標を設定する";
+"Introduction.page1.label.Bullet3" = "進捗状況を観察し、ルートを把握する";
+"Introduction.page2.label.Title" = "体重を入力する";
+"Introduction.page2.label.Subtitle" = "摂取カロリーを把握するため、体重を入力してください。";
+"Introduction.page3.label.Title" = "ヒント：セルラーネットワーク";
+"Introduction.page3.label.Subtitle" = "表示されるデータの精度を上げるには、携帯電話のデータネットワークを利用します。";
+"Introduction.page4.label.Title" = "今すぐPROに参加する";
+"Introduction.page4.label.Subtitle" = "広告なしで楽しみながら、将来のさまざまな新機能の恩恵を受けることができます! ";
+"Introduction.page4.label.Bullet1" = "広告なし";
+"Introduction.page4.label.Bullet2" = "追加マップオプションと目標設定";
+"Introduction.page4.label.Bullet3" = "ライドは（.gpx）ファイルとしてエクスポートすることができます";
+"Introduction.page4.label.Yearly" = "年間";
+"Introduction.page4.label.Monthly" = "マンスリー";
+"Introduction.page4.label.SaveMoney" = "最大70%節約";
+"Introduction.page4.label.pricePaymentTrial" = "7日間の無料トライアル";
+"Introduction.action.Next" = "次へ！";
+"Introduction.action.GetStarted" = "始める";
+"Introduction.action.Continue" = "特典なしで継続する";
+ 
+"Introduction.shareLocation.label.Title" = "位置情報を共有する";
+"Introduction.shareLocation.label.MainTitle" = "COMBIKEを使ってロケーションにアクセスする";
+"Introduction.shareLocation.label.MainSubtitle" = "COMBIKEが速度などを計算するためには、お客様がどこにいるのかを知る必要があります。";
+"Introduction.shareLocation.action.EnableLocation" = "位置情報をオンにする";
+ 
+"History.label.Title" = "歴史";
+"History.label.NoRides" = "この日は、記録されたライドはありません。";
+ 
+"Main.action.Start" = "開始";
+"Main.action.Pause" = "ポーズ";
+"Main.action.Resume" = "再開";
+"Main.action.Stop" = "停止";
+ 
+"Map.label.Title" = "地図";
+ 
+"Mode.label.Title" = "目標を設定する";
+"Mode.label.cell1.Title" = "時間";
+"Mode.label.cell1.Subtitle" = "時を刻むライド";
+"Mode.label.cell2.Title" = "距離";
+"Mode.label.cell2.Subtitle" = "最大範囲はどれくらいですか？";
+"Mode.label.cell3.Title" = "カロリー";
+"Mode.label.cell3.Subtitle" = "乗ってカロリーを消費する";
+ 
+"Congratulations.label.Title" = "おめでとうございます";
+"Congratulations.label.Subtitle" = "あのライドは最高だった!";
+"Congratulations.action.Share" = "ライドを共有する";
+ 
+"RideDetails.label.StartEndTime" = "ライド開始・終了時間";
+"RideDetails.label.RideTitle" = "ライドタイトル";
+"RideDetails.label.RideDecription" = "ライドの説明";
+"RideDetails.label.RideFeel" = "ライドはどのように感じましたか？";
+"RideDetails.label.RideDifficulty" = "ライディングの難易度";
+"RideDetails.label.SpeedHistory" = "速度履歴";
+"RideDetails.label.AltitudeHistory" = "標高履歴";
+"RideDetails.label.ProOnly" = "プロのみ";
+"RideDetails.label.UpgradeToPro" = "COMBIKE PROを入手して、この機能およびその他の機能をアンロックしてください。これはPRO機能です。";
+"RideDetails.action.Upgrade" = "アンロック";
+"RideDetails.label.UpgradeToAccess" = "アップグレードすることで高度な統計情報にアクセスできます。";
+"RideDetails.label.AddImages" = "ライドに写真を入れてください";
+"RideDetails.label.Easy" = "簡単";
+"RideDetails.label.Moderate" = "適度";
+"RideDetails.label.Exhausting" = "疲れる";
+"RideDetails.action.SaveDetails" = "詳細を保存する";
+"RideDetails.action.GPX" = "ルートを.GPXとしてエクスポート";
+"RideDetails.label.NoData" = "データはありません";
+ 
+"Settings.label.Title" = "設定";
+"Settings.option1.label.Title" = "プロ・ユーザーになる";
+"Settings.option1.label.Subtitle" = "すべての機能をアンロックする";
+"Settings.option2.label.Title" = "重量単位";
+"Settings.option2.label.Subtitle" = "重量単位を選択する";
+"Settings.option3.label.Title" = "お客様の体重";
+"Settings.option3.label.Subtitle" = "重量を設定する";
+"Settings.option4.label.Title" = "距離単位";
+"Settings.option4.label.Subtitle" = "距離の単位を選択する";
+"Settings.option5.label.Title" = "サウンド通知";
+"Settings.option5.label.Subtitle" = "サウンド通知のオン／オフを切り替える";
+"Settings.option6.label.Title" = "オートポーズ";
+"Settings.option6.label.Subtitle" = "しばらく動きを止めると、必ずポーズをとる:";
+"Settings.option7.label.Title" = "プライバシーポリシー";
+"Settings.option7.label.Subtitle" = "プライバシーポリシーのURL";
+"Settings.option8.label.Title" = "購入履歴の復元";
+"Settings.option8.label.Subtitle" = "お客様の購入した製品を復元する";
+"Settings.label.Version" = "バージョン";
+ 
+"Misc.rideProgress.label.Title" = "背景には、すでにライドアンドランが進行している。";
+"Misc.rideProgress.label.Subtitle" = "新しいものを始めますか？その場合、現在のものは停止されます。";
+"Misc.rideProgress.action.Cancel" = "止まらないで";
+"Misc.rideProgress.action.Continue" = "はい、現在のライドを停止します";
+"Misc.deleteRide.label.Title" = "ライドを削除するか？";
+"Misc.deleteRide.label.Subtitle" = "選ばれたライドを削除することになります。続行しますか？";
+"Misc.setGoals.label.Title" = "目標を設定してください";
+"Misc.setGoals.label.TextfieldPlaceholder" = "例：15";
+"Misc.selectWeight.label.Title" = "重量単位を選択する";
+ 
+"Map.alert.Title" = "地図のスタイルを選択する";
+"Map.alert.Selection1" = "標準";
+"Map.alert.Selection2" = "ハイブリッド";
+"Map.alert.Selection2Pro" = "ハイブリッド（Proのみ）";
+"Map.alert.Selection3" = "衛星";
+"Map.alert.Selection3Pro" = "衛星（Proのみ）";
+
+"RideDetails.alert.ChooseImage" = "画像を選択する";
+"RideDetails.alert.Camera" = "カメラ";
+"RideDetails.alert.Gallery" = "ギャラリー";
+"RideDetails.alert.CameraWarning" = "これを見る権限はありません";
+"History.alert.ClearHistory" = "本当に歴史を消してしまうのですか？";
+"Settings.alert.NotificationTitle" = "通知はできません。";
+"Settings.alert.NotificationSubtitle" = "通知には許可が必要です";
+"Settings.alert.PurchaseTitle" = "問題がありました。";
+"Settings.alert.PurchaseSubtitle" = "後でもう一度試してください。";
+"Settings.alert.InvalidProduct" = "無効な製品";
+"Settings.alert.ExpiredSince" = "%d 以降、サブスクリプションの有効期限が切れています";
+ 
+"HistoryFilter.label.AllTime" = "全時間";
+"HistoryFilter.label.Monthly" = "マンスリー";
+"HistoryFilter.label.Daily" = "毎日";
+"RideMessageType.label.RideInProgress" = "ライド・イン・プログレス";
+"RideMessageType.label.RideGoalReached" = "ライド目標達成";
+"RideMode.desc.Default" = "目的を持たずライド";
+"RideMode.desc.Time" = "時を刻むライド";
+"RideMode.desc.Distance" = "何マイル、何キロのライド";
+"RideMode.desc.Calories" = "カロリーを消費するため、ライド";
+"Sharing.action.Title" = "ちょっと、COMBIKEで私のライドを見てください！";
+
+"General.action.Change" = "変化する";
+"Introduction.page4.label.FreeTrial" = "いつでも App Store でサブスクリプションを自由にキャンセルできます";
+"Introduction.action.Start" = "Combike Proを続けます";
+"Settings.option9.label.Title" = "言語を変更";
+"Settings.option9.label.Subtitle" = "手動でアプリ言語を変更します";
+"Misc.changeLanguage.label.Title" = "言語を変更？";
+"Misc.changeLanguage.label.Subtitle" = "これにより、現在の乗車が停止します。変更したいですか？";
+"PrivacyPolicy.alert.Title" = "継続するには、プライバシーポリシーを受け入れる必要があります。";

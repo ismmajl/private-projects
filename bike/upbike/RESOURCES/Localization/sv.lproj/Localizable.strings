@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Din runda";
+"General.label.Time" = "Tid";
+"General.label.Distance" = "Distans";
+"General.label.Calories" = "Kalorier";
+"General.label.MaxSpeed" = "Max hastighet";
+"General.label.CurrentSpeed" = "Nuvarande hastighet";
+"General.label.AverageSpeed" = "Snitthastighet";
+"General.label.MinAltitude" = "Min höjdskillnad";
+"General.label.MaxAltitude" = "Max höjdskillnad";
+"General.label.CaloriesBurned" = "Förbrända kalorier";
+"General.action.Select" = "VÄLJ";
+"General.action.Cancel" = "Ångra";
+"General.action.Delete" = "Radera";
+"General.action.Confirm" = "Bekräfta";
+"General.action.Continue" = "FORTSÄTT";
+"General.action.Warning" = "Varning";
+"General.action.OK" = "OK";
+"General.action.Close" = "Stäng";
+"General.action.Settings" = "Inställningar";
+"General.action.Notification" = "Underrättelse";
+"General.action.Yes" = "Ja";
+"General.action.No" = "Nej";
+ 
+"PrivacyPolicy.label.Title" = "Integritetspolicy";
+"PrivacyPolicy.label.MainTitle" = "För att använda combike måste du acceptera villkoren. Klicka här för att läsa online.";
+"PrivacyPolicy.label.MainSubtitle" = "Jag godkänner villkoren";
+"PrivacyPolicy.label.SelectedLabel" = "Klicka här";
+ 
+"Introduction.page1.label.Title" = "VÄLKOMMEN";
+"Introduction.page1.label.Subtitle" = "Det enklaste sättet att hålla reda på dina cykelrundor och din kondition!";
+"Introduction.page1.label.Bullet1" = "Lär känna din kapacitet - all vital data på ett och samma ställe";
+"Introduction.page1.label.Bullet2" = "Sätt olika sorters mål för att testa dina gränser";
+"Introduction.page1.label.Bullet3" = "Håll koll på dina rutter och följ din förbättring";
+"Introduction.page2.label.Title" = "SKRIV IN DIN VIKT";
+"Introduction.page2.label.Subtitle" = "Skriv in din vikt så att vi kan följa din kaloriförbrukning";
+"Introduction.page3.label.Title" = "TIPS: MOBILNÄT";
+"Introduction.page3.label.Subtitle" = "Mobildata ger förbättrad data.";
+"Introduction.page4.label.Title" = "Bli PRO-medlem";
+"Introduction.page4.label.Subtitle" = "Slipp reklam och få tillgång till nya funktioner!";
+"Introduction.page4.label.Bullet1" = "Ingen reklam";
+"Introduction.page4.label.Bullet2" = "Sätt upp mål och lås upp fler kartor kartor";
+"Introduction.page4.label.Bullet3" = "Exportera dina rundor som (.gpx) filer";
+"Introduction.page4.label.Yearly" = "Årlig";
+"Introduction.page4.label.Monthly" = "Månadsvis";
+"Introduction.page4.label.SaveMoney" = "Spara upp till 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 dagars gratis provperiod";
+"Introduction.action.Next" = "NÄSTA!";
+"Introduction.action.GetStarted" = "KOM IGÅNG";
+"Introduction.action.Continue" = "FORTFÄTT UTAN FÖRMÅNER";
+ 
+"Introduction.shareLocation.label.Title" = "DELA POSITION";
+"Introduction.shareLocation.label.MainTitle" = "AKTIVERA POSITIONERING MED COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike behöver veta din position för att beräkna din hastighet och andra mätetal";
+"Introduction.shareLocation.action.EnableLocation" = "Aktivera positionering";
+ 
+"History.label.Title" = "HISTORIK";
+"History.label.NoRides" = "Det finns inga sparade rundor för detta datum";
+ 
+"Main.action.Start" = "START";
+"Main.action.Pause" = "PAUS";
+"Main.action.Resume" = "ÅTERUPPTA";
+"Main.action.Stop" = "STOPP";
+ 
+"Map.label.Title" = "KARTA";
+ 
+"Mode.label.Title" = "SÄTT MÅL";
+"Mode.label.cell1.Title" = "TID";
+"Mode.label.cell1.Subtitle" = "Kör viss tid";
+"Mode.label.cell2.Title" = "DISTANS";
+"Mode.label.cell2.Subtitle" = "Vad är det längsta du orkar köra?";
+"Mode.label.cell3.Title" = "KALORIER";
+"Mode.label.cell3.Subtitle" = "Bränn kalorier";
+ 
+"Congratulations.label.Title" = "GRATTIS";
+"Congratulations.label.Subtitle" = "Det var en bra runda!";
+"Congratulations.action.Share" = "Dela Runda";
+ 
+"RideDetails.label.StartEndTime" = "STARTTID & STOPPTID";
+"RideDetails.label.RideTitle" = "NAMN PÅ RUNDAN";
+"RideDetails.label.RideDecription" = "BESKRIVNING";
+"RideDetails.label.RideFeel" = "HUR KÄNDES DET?";
+"RideDetails.label.RideDifficulty" = "SVÅRIGHETSGRAD";
+"RideDetails.label.SpeedHistory" = "HASTIGHETSHISTORIK";
+"RideDetails.label.AltitudeHistory" = "HISTORIK FÖR HÖJDMETER";
+"RideDetails.label.ProOnly" = "ENDAST PRO";
+"RideDetails.label.UpgradeToPro" = "Detta är en funktion i PRO Skaffa COMBIKE PRO för att låsa upp fler funktioner.";
+"RideDetails.action.Upgrade" = "Lås upp";
+"RideDetails.label.UpgradeToAccess" = "Uppgradera för att få tillgång till avancerad statistik.";
+"RideDetails.label.AddImages" = "Lägg till bilder";
+"RideDetails.label.Easy" = "Lätt";
+"RideDetails.label.Moderate" = "Medel";
+"RideDetails.label.Exhausting" = "Svår";
+"RideDetails.action.SaveDetails" = "Spara data";
+"RideDetails.action.GPX" = "Exportera runda som .GPX";
+"RideDetails.label.NoData" = "Ingen data tillgänglig";
+ 
+"Settings.label.Title" = "INSTÄLLNINGAR";
+"Settings.option1.label.Title" = "SKAFFA PRO";
+"Settings.option1.label.Subtitle" = "Lås upp alla funktioner";
+"Settings.option2.label.Title" = "VIKTENHET";
+"Settings.option2.label.Subtitle" = "Välj viktenhet";
+"Settings.option3.label.Title" = "DIN VIKT";
+"Settings.option3.label.Subtitle" = "Mata in din vikt";
+"Settings.option4.label.Title" = "LÄNGDENHET";
+"Settings.option4.label.Subtitle" = "Välj längdenhet";
+"Settings.option5.label.Title" = "LJUDNOTISER";
+"Settings.option5.label.Subtitle" = "Stäng av eller sätt på ljudnotiser";
+"Settings.option6.label.Title" = "AUTO PAUS";
+"Settings.option6.label.Subtitle" = "Pausa när du är inaktiv i:";
+"Settings.option7.label.Title" = "INTEGRITETSPOLICY";
+"Settings.option7.label.Subtitle" = "Länk till integritetspolicy";
+"Settings.option8.label.Title" = "ÅTERUPPTA KÖP";
+"Settings.option8.label.Subtitle" = "Återuppta ditt köp";
+"Settings.label.Version" = "version";
+ 
+"Misc.rideProgress.label.Title" = "Det finns redan en påbörjad runda i bakgrunden";
+"Misc.rideProgress.label.Subtitle" = "Vill starta en ny runda? Den påbörjade kommer då att avslutas.";
+"Misc.rideProgress.action.Cancel" = "Avsluta inte";
+"Misc.rideProgress.action.Continue" = "Ja, avsluta rundan";
+"Misc.deleteRide.label.Title" = "Radera rundan?";
+"Misc.deleteRide.label.Subtitle" = "Rundan kommer nu att raderas. Vill du fortsätta?";
+"Misc.setGoals.label.Title" = "Sätt upp mål";
+"Misc.setGoals.label.TextfieldPlaceholder" = "T.ex. 15";
+"Misc.selectWeight.label.Title" = "Välj viktenhet";
+ 
+"Map.alert.Title" = "Välj typ av karta";
+"Map.alert.Selection1" = "Standard";
+"Map.alert.Selection2" = "Hybrid";
+"Map.alert.Selection2Pro" = "Hybrid (Endast Pro)";
+"Map.alert.Selection3" = "Satellit";
+"Map.alert.Selection3Pro" = "Satellit (Endast Pro)";
+
+"RideDetails.alert.ChooseImage" = "Välj bild";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Album";
+"RideDetails.alert.CameraWarning" = "Du har inte tillgång till";
+"History.alert.ClearHistory" = "Är du helt säker på att du vill rensa historiken?";
+"Settings.alert.NotificationTitle" = "Notiser är inte tillåtna";
+"Settings.alert.NotificationSubtitle" = "Tillstånd erfordras för notiser";
+"Settings.alert.PurchaseTitle" = "Något gick fel.";
+"Settings.alert.PurchaseSubtitle" = "Försök igen senare";
+"Settings.alert.InvalidProduct" = "Produkten finns inte";
+"Settings.alert.ExpiredSince" = "Ditt abonnemang har löpt ut sedan %d";
+ 
+"HistoryFilter.label.AllTime" = "Alltid";
+"HistoryFilter.label.Monthly" = "Månadsvis";
+"HistoryFilter.label.Daily" = "Dagligen";
+"RideMessageType.label.RideInProgress" = "Runda pågor";
+"RideMessageType.label.RideGoalReached" = "Målet för rundan är uppfyllt";
+"RideMode.desc.Default" = "Runda utan satta mål";
+"RideMode.desc.Time" = "Kör viss tid";
+"RideMode.desc.Distance" = "Kör sträcka, miles eller kilometer";
+"RideMode.desc.Calories" = "Bränn kalorier";
+"Sharing.action.Title" = "Hallå, kolla in min runda på COMBIKE!";
+
+"General.action.Change" = "Förändra";
+"Introduction.page4.label.FreeTrial" = "Du är fri att avbryta ditt prenumeration i appen App Store när som helst";
+"Introduction.action.Start" = "Fortsätt med Combike Pro";
+"Settings.option9.label.Title" = "ÄNDRA SPRÅK";
+"Settings.option9.label.Subtitle" = "Ändra manuellt appspråk";
+"Misc.changeLanguage.label.Title" = "Ändra språk?";
+"Misc.changeLanguage.label.Subtitle" = "Detta kommer att stoppa den aktuella resan. Vill du ändra det?";
+"PrivacyPolicy.alert.Title" = "Du måste acceptera sekretesspolicyn för att fortsätta.";

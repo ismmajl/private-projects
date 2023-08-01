@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Ton parcours";
+"General.label.Time" = "Temps";
+"General.label.Distance" = "Distance";
+"General.label.Calories" = "Calories";
+"General.label.MaxSpeed" = "Vitesse max.";
+"General.label.CurrentSpeed" = "Vitesse actuelle";
+"General.label.AverageSpeed" = "Vitesse moyenne";
+"General.label.MinAltitude" = "Altitude min.";
+"General.label.MaxAltitude" = "Altitude max.";
+"General.label.CaloriesBurned" = "Calories brûlées";
+"General.action.Select" = "Selectionner";
+"General.action.Cancel" = "Abandonner";
+"General.action.Delete" = "Supprimer";
+"General.action.Confirm" = "Confirmer";
+"General.action.Continue" = "CONTINUER";
+"General.action.Warning" = "Attention";
+"General.action.OK" = "OK";
+"General.action.Close" = "Fermer";
+"General.action.Settings" = "Paramètres";
+"General.action.Notification" = "Notification";
+"General.action.Yes" = "Oui";
+"General.action.No" = "Non";
+ 
+"PrivacyPolicy.label.Title" = "Politique de confidentialité";
+"PrivacyPolicy.label.MainTitle" = "Pour utiliser combike, vous devez accepter notre politique de confidentialité. Cliquer ici pour la lire en ligne.";
+"PrivacyPolicy.label.MainSubtitle" = "J'accepte la politique de confidentialité";
+"PrivacyPolicy.label.SelectedLabel" = "Cliquer ici";
+ 
+"Introduction.page1.label.Title" = "BIENVENUE";
+"Introduction.page1.label.Subtitle" = "Profite du moyen le plus simple de suivre tes parcours à vélo et ta condition physique!";
+"Introduction.page1.label.Bullet1" = "Visualise tes performances - toutes les mesures importantes en un coup d'œil";
+"Introduction.page1.label.Bullet2" = "Définis différents types d'objectifs pour repousser tes limites";
+"Introduction.page1.label.Bullet3" = "Garde une trace de tes itinéraires et vois ta progression";
+"Introduction.page2.label.Title" = "SAISIS TON POIDS";
+"Introduction.page2.label.Subtitle" = "Saisis ton poids afin que nous puissions suivre ta consommation de calories.";
+"Introduction.page3.label.Title" = "ASTUCE : RESEAU MOBILE";
+"Introduction.page3.label.Subtitle" = "Utilise le réseau de données mobile pour améliorer la précision des données affichées.";
+"Introduction.page4.label.Title" = "Deviens un membre PRO";
+"Introduction.page4.label.Subtitle" = "Profite d'une expérience sans publicité et des nombreuses nouvelles fonctionnalités à venir!";
+"Introduction.page4.label.Bullet1" = "Pas de publicité";
+"Introduction.page4.label.Bullet2" = "Définition d'objectifs et nouvelles options de carte";
+"Introduction.page4.label.Bullet3" = "Exporte tes parcours au format (.gpx)";
+"Introduction.page4.label.Yearly" = "annuel";
+"Introduction.page4.label.Monthly" = "mensuel";
+"Introduction.page4.label.SaveMoney" = "Economise jusqu'à 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 jours d'essai gratuit";
+"Introduction.action.Next" = "SUIVANT !";
+"Introduction.action.GetStarted" = "COMMENCER";
+"Introduction.action.Continue" = "CONTINUE SANS BENEFICES";
+ 
+"Introduction.shareLocation.label.Title" = "PARTAGE DE LOCALISATION";
+"Introduction.shareLocation.label.MainTitle" = "AUTORISER LOCALISATION AVEC COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike a besoin de ta position pour calculer ta vitesse et d'autres mesures.";
+"Introduction.shareLocation.action.EnableLocation" = "Autoriser locatisation";
+ 
+"History.label.Title" = "HISTORIQUE";
+"History.label.NoRides" = "Il n'y a pas de parcours enregistrés pour cette date.";
+ 
+"Main.action.Start" = "COMMENCER";
+"Main.action.Pause" = "PAUSE";
+"Main.action.Resume" = "REPRENDRE";
+"Main.action.Stop" = "ARRET";
+ 
+"Map.label.Title" = "CARTE";
+ 
+"Mode.label.Title" = "DEFINIS TON OBJECTIF";
+"Mode.label.cell1.Title" = "TEMPS";
+"Mode.label.cell1.Subtitle" = "Pédale contre la montre";
+"Mode.label.cell2.Title" = "DISTANCE";
+"Mode.label.cell2.Subtitle" = "Jusqu'où peux-tu aller ?";
+"Mode.label.cell3.Title" = "CALORIES";
+"Mode.label.cell3.Subtitle" = "Pédale pour brûler des calories";
+ 
+"Congratulations.label.Title" = "FELICITATIONS";
+"Congratulations.label.Subtitle" = "C'était un parcours costaud !";
+"Congratulations.action.Share" = "Partager le parcours";
+ 
+"RideDetails.label.StartEndTime" = "HEURE DE DEPART & D'ARRIVEE";
+"RideDetails.label.RideTitle" = "NOM DU PARCOURS";
+"RideDetails.label.RideDecription" = "DESCRIPTION DU PARCOURS";
+"RideDetails.label.RideFeel" = "COMMENT S'EST PASSE LE PARCOURS ?";
+"RideDetails.label.RideDifficulty" = "DIFFICULTES DU PARCOURS";
+"RideDetails.label.SpeedHistory" = "HISTORIQUE DES VITESSES";
+"RideDetails.label.AltitudeHistory" = "HISTORIQUE DES ALTITUDES";
+"RideDetails.label.ProOnly" = "PRO SEULEMENT";
+"RideDetails.label.UpgradeToPro" = "Esto es una característica\n\nObtener COMBIKE PRO para desbloquear esto y más características";
+"RideDetails.action.Upgrade" = "Desbloquear";
+"RideDetails.label.UpgradeToAccess" = "Asciende de categoría";
+"RideDetails.label.AddImages" = "Ajoute des images de ton parcours";
+"RideDetails.label.Easy" = "Facile";
+"RideDetails.label.Moderate" = "Moyen";
+"RideDetails.label.Exhausting" = "Fatigant";
+"RideDetails.action.SaveDetails" = "Sauvegarder les détails";
+"RideDetails.action.GPX" = "Exporter itineraire en .GPX";
+"RideDetails.label.NoData" = "Pas de données disponibles";
+ 
+"Settings.label.Title" = "PARAMETRES";
+"Settings.option1.label.Title" = "DEVENIR UN UTILISATEUR PRO";
+"Settings.option1.label.Subtitle" = "Déverrouiller toutes les fonctionalités";
+"Settings.option2.label.Title" = "UNITE DE POIDS";
+"Settings.option2.label.Subtitle" = "Sélectionne l'unité de poids";
+"Settings.option3.label.Title" = "TON POIDS";
+"Settings.option3.label.Subtitle" = "Saisis ton poids";
+"Settings.option4.label.Title" = "UNITE DE DISTANCE";
+"Settings.option4.label.Subtitle" = "Sélectionne l'unité de distance";
+"Settings.option5.label.Title" = "NOTIFICATION SONORE";
+"Settings.option5.label.Subtitle" = "Activer ou désactiver la notification sonore";
+"Settings.option6.label.Title" = "PAUSE AUTO";
+"Settings.option6.label.Subtitle" = "Mettre en pause après un arrêt de :";
+"Settings.option7.label.Title" = "POLITIQUE DE CONFIDENTIALITE";
+"Settings.option7.label.Subtitle" = "Lien vers la politique de confidentialité";
+"Settings.option8.label.Title" = "RESTAURER ACHAT";
+"Settings.option8.label.Subtitle" = "Restaure ton achat";
+"Settings.label.Version" = "version";
+ 
+"Misc.rideProgress.label.Title" = "Il y a déjà un parcours actif/en cours en arrière fond";
+"Misc.rideProgress.label.Subtitle" = "Veux-tu en démarrer un nouveau parcours ?\Celui en cours sera arrêté.";
+"Misc.rideProgress.action.Cancel" = "Ne pas arrêter";
+"Misc.rideProgress.action.Continue" = "Oui, arrête le parcours en cours";
+"Misc.deleteRide.label.Title" = "Supprimer parcours";
+"Misc.deleteRide.label.Subtitle" = "Tu es sur le point de supprimer le parcours sélectionné. Souhaites-tu continuer?";
+"Misc.setGoals.label.Title" = "Définis ton objectif";
+"Misc.setGoals.label.TextfieldPlaceholder" = "e.g. 15";
+"Misc.selectWeight.label.Title" = "Selectionner Unité de Poids";
+ 
+"Map.alert.Title" = "Choisir le style de la carte";
+"Map.alert.Selection1" = "Standard";
+"Map.alert.Selection2" = "Hybride";
+"Map.alert.Selection2Pro" = "Hybride (Pro seulement)";
+"Map.alert.Selection3" = "Satellite";
+"Map.alert.Selection3Pro" = "Satellite (Pro seulement)";
+
+"RideDetails.alert.ChooseImage" = "Choisir image";
+"RideDetails.alert.Camera" = "Camera";
+"RideDetails.alert.Gallery" = "Gallerie";
+"RideDetails.alert.CameraWarning" = "Tu n'as pas de permission d'accès";
+"History.alert.ClearHistory" = "Es-tu sûr de vouloir supprimer l'historique";
+"Settings.alert.NotificationTitle" = "Les notifications sont désactivées";
+"Settings.alert.NotificationSubtitle" = "Une permission est nécessaire pour les notifications";
+"Settings.alert.PurchaseTitle" = "Quelque chose s'est mal passé.";
+"Settings.alert.PurchaseSubtitle" = "Essaye à nouveau plus tard";
+"Settings.alert.InvalidProduct" = "Produit invalide";
+"Settings.alert.ExpiredSince" = "Votre abonnement a expiré depuis %d";
+ 
+"HistoryFilter.label.AllTime" = "Tous les temps";
+"HistoryFilter.label.Monthly" = "Mensuel";
+"HistoryFilter.label.Daily" = "Journalier";
+"RideMessageType.label.RideInProgress" = "Parcours en cours";
+"RideMessageType.label.RideGoalReached" = "Objectif du parcours atteint";
+"RideMode.desc.Default" = "Pas d'objectif défini pour le parcours";
+"RideMode.desc.Time" = "Pédale contre la montre";
+"RideMode.desc.Distance" = "Pédale pour les miles ou des kilomètres";
+"RideMode.desc.Calories" = "Pédale pour brûler des calories";
+"Sharing.action.Title" = "Salut, regarde mon parcours sur COMBIKE";
+
+"General.action.Change" = "Changer";
+"Introduction.page4.label.FreeTrial" = "Tu es libre d'annuler ton abonnement dans l'App Store à tout moment";
+"Introduction.action.Start" = "CONTINUE AVEC COMBIKE PRO";
+"Settings.option9.label.Title" = "CHANGER LA LANGUE";
+"Settings.option9.label.Subtitle" = "Changer manuellement le langage de l'application";
+"Misc.changeLanguage.label.Title" = "Changer de langue?";
+"Misc.changeLanguage.label.Subtitle" = "Cela arrêtera le trajet en cours. Tu es sûr?";
+"PrivacyPolicy.alert.Title" = "Il faut que accepter la politique de confidentialité pour continuer";

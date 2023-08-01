@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Perjalanan Anda";
+"General.label.Time" = "Waktu";
+"General.label.Distance" = "Jarak";
+"General.label.Calories" = "Kalori";
+"General.label.MaxSpeed" = "Kecepatan maks";
+"General.label.CurrentSpeed" = "Kecepatan saat ini";
+"General.label.AverageSpeed" = "Kecepatan rata-rata";
+"General.label.MinAltitude" = "Ketinggian min";
+"General.label.MaxAltitude" = "Ketinggian maks";
+"General.label.CaloriesBurned" = "Kalori dibakar";
+"General.action.Select" = "PILIH";
+"General.action.Cancel" = "Batal";
+"General.action.Delete" = "Hapus";
+"General.action.Confirm" = "Konfirmasi";
+"General.action.Continue" = "LANJUT";
+"General.action.Warning" = "Peringatan";
+"General.action.OK" = "OKE";
+"General.action.Close" = "Tutup";
+"General.action.Settings" = "Pengaturan";
+"General.action.Notification" = "Pemberitahuan";
+"General.action.Yes" = "Ya";
+"General.action.No" = "Tidak";
+ 
+"PrivacyPolicy.label.Title" = "Kebijakan Privasi";
+"PrivacyPolicy.label.MainTitle" = "Agar dapat menggunakan Combike, Anda harus menerima Kebijakan Privasi kami. Klik di sini untuk membacanya online.";
+"PrivacyPolicy.label.MainSubtitle" = "Saya setuju dengan Kebijakan Privasi";
+"PrivacyPolicy.label.SelectedLabel" = "Klik di sini";
+ 
+"Introduction.page1.label.Title" = "SELAMAT DATANG";
+"Introduction.page1.label.Subtitle" = "Nikmati cara termudah untuk memantau perjalanan sepeda dan kebugaran Anda!";
+"Introduction.page1.label.Bullet1" = "Ketahui performa Anda - melihat semua metrik penting";
+"Introduction.page1.label.Bullet2" = "Atur berbagai target untuk mendorong batas kemampuan Anda";
+"Introduction.page1.label.Bullet3" = "Lacak rute dan lihat kemajuan Anda";
+"Introduction.page2.label.Title" = "MASUKKAN BERAT BADAN ANDA";
+"Introduction.page2.label.Subtitle" = "Silakan masukkan berat badan Anda agar kami bisa memantau konsumsi kalori Anda.";
+"Introduction.page3.label.Title" = "TIPS: JARINGAN SELULER";
+"Introduction.page3.label.Subtitle" = "Gunakan jaringan data seluler untuk meningkatkan akurasi data yang ditampilkan.";
+"Introduction.page4.label.Title" = "Jadi anggota PRO";
+"Introduction.page4.label.Subtitle" = "Nikmati pengalaman bebas iklan dan keuntungan dari banyak fitur baru yang akan hadir!";
+"Introduction.page4.label.Bullet1" = "Tidak ada iklan";
+"Introduction.page4.label.Bullet2" = "Menetapkan target dan opsi peta baru";
+"Introduction.page4.label.Bullet3" = "Ekspor perjalanan Anda sebagai file (.gpx)";
+"Introduction.page4.label.Yearly" = "tahunan";
+"Introduction.page4.label.Monthly" = "bulanan";
+"Introduction.page4.label.SaveMoney" = "Hemat hingga 70%";
+"Introduction.page4.label.pricePaymentTrial" = "Uji coba gratis 7 hari";
+"Introduction.action.Next" = "BERIKUTNYA!";
+"Introduction.action.GetStarted" = "MEMULAI";
+"Introduction.action.Continue" = "LANJUTKAN TANPA KEUNTUNGAN";
+ 
+"Introduction.shareLocation.label.Title" = "BAGI LOKASI";
+"Introduction.shareLocation.label.MainTitle" = "AKTIFKAN LOKASI DENGAN COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike membutuhkan lokasi Anda untuk menghitung kecepatan dan metrik Anda lainnya.";
+"Introduction.shareLocation.action.EnableLocation" = "Aktifkan lokasi";
+ 
+"History.label.Title" = "RIWAYAT";
+"History.label.NoRides" = "Tidak ada perjalanan yang tercatat untuk tanggal ini.";
+ 
+"Main.action.Start" = "MULAI";
+"Main.action.Pause" = "JEDA";
+"Main.action.Resume" = "LANJUTKAN";
+"Main.action.Stop" = "STOP";
+ 
+"Map.label.Title" = "PETA";
+ 
+"Mode.label.Title" = "TETAPKAN TARGET ANDA";
+"Mode.label.cell1.Title" = "WAKTU";
+"Mode.label.cell1.Subtitle" = "Bersepeda secepat mungkin";
+"Mode.label.cell2.Title" = "JARAK";
+"Mode.label.cell2.Subtitle" = "Berapa jarak terjauh yang bisa Anda tempuh?";
+"Mode.label.cell3.Title" = "KALORI";
+"Mode.label.cell3.Subtitle" = "Bersepeda untuk membakar kalori";
+ 
+"Congratulations.label.Title" = "SELAMAT";
+"Congratulations.label.Subtitle" = "Itu adalah perjalanan yang solid!";
+"Congratulations.action.Share" = "Bagikan Perjalanan";
+ 
+"RideDetails.label.StartEndTime" = "WAKTU PERJALANAN DIMULAI & BERAKHIR";
+"RideDetails.label.RideTitle" = "JUDUL PERJALANAN";
+"RideDetails.label.RideDecription" = "DESKRIPSI PERJALANAN";
+"RideDetails.label.RideFeel" = "BAGAIMANA PERJALANANNYA?";
+"RideDetails.label.RideDifficulty" = "KESULITAN PERJALANAN";
+"RideDetails.label.SpeedHistory" = "RIWAYAT KECEPATAN";
+"RideDetails.label.AltitudeHistory" = "RIWAYAT KETINGGIAN";
+"RideDetails.label.ProOnly" = "KHUSUS PRO";
+"RideDetails.label.UpgradeToPro" = "Ini adalah fitur PRO\n\nDapatkan COMBIKE PRO untuk membuka fitur ini dan lainnya.";
+"RideDetails.action.Upgrade" = "Buka fitur";
+"RideDetails.label.UpgradeToAccess" = "Tingkatkan untuk mendapatkan akses ke detail statistik.";
+"RideDetails.label.AddImages" = "Tambahkan foto-foto ke perjalanan Anda";
+"RideDetails.label.Easy" = "Mudah";
+"RideDetails.label.Moderate" = "Sedang";
+"RideDetails.label.Exhausting" = "Melelahkan";
+"RideDetails.action.SaveDetails" = "Simpan detail";
+"RideDetails.action.GPX" = "Ekspor rute sebagai .GPX";
+"RideDetails.label.NoData" = "Tidak ada data yang tersedia";
+ 
+"Settings.label.Title" = "PENGATURAN";
+"Settings.option1.label.Title" = "JADI PENGGUNA PRO";
+"Settings.option1.label.Subtitle" = "Buka semua fitur";
+"Settings.option2.label.Title" = "SATUAN BERAT BADAN";
+"Settings.option2.label.Subtitle" = "Pilih satuan berat badan";
+"Settings.option3.label.Title" = "BERAT BADAN ANDA";
+"Settings.option3.label.Subtitle" = "Tetapkan berat badan Anda";
+"Settings.option4.label.Title" = "SATUAN JARAK";
+"Settings.option4.label.Subtitle" = "Pilih satuan jarak";
+"Settings.option5.label.Title" = "NOTIFIKASI SUARA";
+"Settings.option5.label.Subtitle" = "Aktifkan atau matikan notifikasi suara";
+"Settings.option6.label.Title" = "JEDA OTOMATIS";
+"Settings.option6.label.Subtitle" = "Jeda setelah tidak ada aktivitas selama:";
+"Settings.option7.label.Title" = "KEBIJAKAN PRIVASI";
+"Settings.option7.label.Subtitle" = "Tautan ke kebijakan privasi";
+"Settings.option8.label.Title" = "PULIHKAN PEMBELIAN";
+"Settings.option8.label.Subtitle" = "Pulihkan pembelian Anda";
+"Settings.label.Version" = "versi";
+ 
+"Misc.rideProgress.label.Title" = "Sudah ada perjalanan aktif\nberjalan di latar belakang.";
+"Misc.rideProgress.label.Subtitle" = "Apakah Anda ingin memulai yang baru?\nYang sekarang akan dihentikan.";
+"Misc.rideProgress.action.Cancel" = "Jangan Berhenti";
+"Misc.rideProgress.action.Continue" = "Ya, hentikan perjalanan saat ini";
+"Misc.deleteRide.label.Title" = "Hapus Perjalanan?";
+"Misc.deleteRide.label.Subtitle" = "Anda akan menghapus perjalanan yang dipilih. Apakah Anda ingin melanjutkan?";
+"Misc.setGoals.label.Title" = "Silakan tentukan target Anda";
+"Misc.setGoals.label.TextfieldPlaceholder" = "misalnya 15";
+"Misc.selectWeight.label.Title" = "Pilih satuan Berat Badan";
+ 
+"Map.alert.Title" = "Pilih gaya peta";
+"Map.alert.Selection1" = "Standar";
+"Map.alert.Selection2" = "Hybrid";
+"Map.alert.Selection2Pro" = "Hybrid (khusus Pro)";
+"Map.alert.Selection3" = "Satelit";
+"Map.alert.Selection3Pro" = "Satelit (khusus Pro)";
+
+"RideDetails.alert.ChooseImage" = "Pilih Gambar";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Galeri";
+"RideDetails.alert.CameraWarning" = "Anda tidak punya izin untuk mengakses";
+"History.alert.ClearHistory" = "Anda yakin ingin menghapus riwayat?";
+"Settings.alert.NotificationTitle" = "Notifikasi tidak diizinkan.";
+"Settings.alert.NotificationSubtitle" = "Izin diperlukan untuk notifikasi";
+"Settings.alert.PurchaseTitle" = "Ada yang salah.";
+"Settings.alert.PurchaseSubtitle" = "Coba lagi nanti.";
+"Settings.alert.InvalidProduct" = "Produk tidak valid";
+"Settings.alert.ExpiredSince" = "Langganan Anda telah berakhir sejak %d";
+ 
+"HistoryFilter.label.AllTime" = "Seluruh waktu";
+"HistoryFilter.label.Monthly" = "Bulanan";
+"HistoryFilter.label.Daily" = "Harian";
+"RideMessageType.label.RideInProgress" = "Perjalanan sedang Berlangsung";
+"RideMessageType.label.RideGoalReached" = "Target perjalanan tercapai";
+"RideMode.desc.Default" = "Bersepeda tanpa menetapkan target";
+"RideMode.desc.Time" = "Bersepeda secepat mungkin";
+"RideMode.desc.Distance" = "Bersepeda bermil-mil atau berkilo-kilometer";
+"RideMode.desc.Calories" = "Bersepeda untuk membakar kalori";
+"Sharing.action.Title" = "Hei, lihat perjalanan saya di COMBIKE!";
+
+"General.action.Change" = "Mengubah";
+"Introduction.page4.label.FreeTrial" = "Anda bebas untuk membatalkan langganan Anda di aplikasi App Store kapan saja";
+"Introduction.action.Start" = "Lanjutkan dengan Combike Pro";
+"Settings.option9.label.Title" = "GANTI BAHASA";
+"Settings.option9.label.Subtitle" = "Mengubah bahasa aplikasi secara manual";
+"Misc.changeLanguage.label.Title" = "Ganti BAHASA?";
+"Misc.changeLanguage.label.Subtitle" = "Ini akan menghentikan perjalanan saat ini. Apakah Anda ingin mengubahnya?";
+"PrivacyPolicy.alert.Title" = "Anda perlu menerima kebijakan privasi untuk melanjutkan.";

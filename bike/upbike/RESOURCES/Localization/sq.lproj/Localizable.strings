@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+ 
+"General.label.DefaultRide" = "Udhëtimi ytë";
+"General.label.Time" = "Koha";
+"General.label.Distance" = "Largësia";
+"General.label.Calories" = "Kaloritë";
+"General.label.MaxSpeed" = "Shpejtësia max.";
+"General.label.CurrentSpeed" = "Shpejtësia e çastit";
+"General.label.AverageSpeed" = "Shpejtësia mes.";
+"General.label.MinAltitude" = " Lartësia min.";
+"General.label.MaxAltitude" = "Lartësia max.";
+"General.label.CaloriesBurned" = "Kalori të djegura";
+"General.action.Select" = "ZGJEDH";
+"General.action.Cancel" = "Anulo";
+"General.action.Delete" = "Fshij";
+"General.action.Confirm" = "Vërteto";
+"General.action.Continue" = "VAZHDO";
+"General.action.Warning" = "Paralajmërim";
+"General.action.OK" = "OK";
+"General.action.Close" = "Mbyll";
+"General.action.Settings" = "Cilësimet";
+"General.action.Notification" = "Njoftim";
+"General.action.Yes" = "Po";
+"General.action.No" = "Jo";

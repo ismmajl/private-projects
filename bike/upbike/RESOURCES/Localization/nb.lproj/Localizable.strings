@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Din tur";
+"General.label.Time" = "Tid";
+"General.label.Distance" = "Distanse";
+"General.label.Calories" = "Kalorier";
+"General.label.MaxSpeed" = "Høyeste hastighet";
+"General.label.CurrentSpeed" = "Hastighet nå";
+"General.label.AverageSpeed" = "Snittshastighet";
+"General.label.MinAltitude" = "Min høyde";
+"General.label.MaxAltitude" = "Maks høyde";
+"General.label.CaloriesBurned" = "Forbrente kalorier";
+"General.action.Select" = "VELG";
+"General.action.Cancel" = "Avbryt";
+"General.action.Delete" = "Slett";
+"General.action.Confirm" = "Bekreft";
+"General.action.Continue" = "FORTSETT";
+"General.action.Warning" = "Advarsel";
+"General.action.OK" = "OK";
+"General.action.Close" = "Lukk";
+"General.action.Settings" = "Innstillinger";
+"General.action.Notification" = "Melding";
+"General.action.Yes" = "Ja";
+"General.action.No" = "Nei";
+ 
+"PrivacyPolicy.label.Title" = "Personvernerklæring";
+"PrivacyPolicy.label.MainTitle" = "Du må godta personvernerklæringen for å bruke combike. Klikk her for å lese den online.";
+"PrivacyPolicy.label.MainSubtitle" = "Jeg godtar personvernerklæringen";
+"PrivacyPolicy.label.SelectedLabel" = "Klikk her";
+ 
+"Introduction.page1.label.Title" = "VELKOMMEN";
+"Introduction.page1.label.Subtitle" = "Den letteste måten å logge sykkelturen og egen kondisjon!";
+"Introduction.page1.label.Bullet1" = "Bli kjent egen prestasjon - alle viktige data på et øyeblikk";
+"Introduction.page1.label.Bullet2" = "Sett forskjellige mål for å teste egne grenser";
+"Introduction.page1.label.Bullet3" = "Hold styr på rutene og observer egen progresjonen";
+"Introduction.page2.label.Title" = "SKRIV INN EGEN VEKT";
+"Introduction.page2.label.Subtitle" = "Skriv inn egen kroppsvekt, så vi kan logge kaloriforbruket";
+"Introduction.page3.label.Title" = "TIPS: MOBILNETT";
+"Introduction.page3.label.Subtitle" = "Bruk mobilnettet for mer nøyaktige data.";
+"Introduction.page4.label.Title" = "Bli PRO-medlem";
+"Introduction.page4.label.Subtitle" = "Slipp reklame og få glede av mange nye, fremtidige funksjoner!";
+"Introduction.page4.label.Bullet1" = "Ingen reklame";
+"Introduction.page4.label.Bullet2" = "Målsetting og nye kartmuligheter";
+"Introduction.page4.label.Bullet3" = "Eksporter turene som (.gpx) filer";
+"Introduction.page4.label.Yearly" = "årlig";
+"Introduction.page4.label.Monthly" = "månedlig";
+"Introduction.page4.label.SaveMoney" = "Spar opptil 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 dager gratis prøveperiode";
+"Introduction.action.Next" = "NESTE!";
+"Introduction.action.GetStarted" = "KOM I GANG";
+"Introduction.action.Continue" = "FORTSETT UTEN FORDELER";
+ 
+"Introduction.shareLocation.label.Title" = "DEL POSISJON";
+"Introduction.shareLocation.label.MainTitle" = "AKTIVER POSISJON MED COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike trenger posisjonen for å kalkulere hastighet og andre data.";
+"Introduction.shareLocation.action.EnableLocation" = "Aktiver posisjon";
+ 
+"History.label.Title" = "HISTORIKK";
+"History.label.NoRides" = "Det er ingen registrerte turer på denne datoen.";
+ 
+"Main.action.Start" = "START";
+"Main.action.Pause" = "PAUSE";
+"Main.action.Resume" = "FORTSETT";
+"Main.action.Stop" = "STOPP";
+ 
+"Map.label.Title" = "KART";
+ 
+"Mode.label.Title" = "SETT MÅL";
+"Mode.label.cell1.Title" = "TID";
+"Mode.label.cell1.Subtitle" = "Kjør mot klokken";
+"Mode.label.cell2.Title" = "DISTANSE";
+"Mode.label.cell2.Subtitle" = "Hva er det lengste du kan sykle?";
+"Mode.label.cell3.Title" = "KALORIER";
+"Mode.label.cell3.Subtitle" = "Sykle for å brenne kalorier";
+ 
+"Congratulations.label.Title" = "GRATULERER";
+"Congratulations.label.Subtitle" = "Det var en bra tur!";
+"Congratulations.action.Share" = "Del tur";
+ 
+"RideDetails.label.StartEndTime" = "START- OG SLUTTID";
+"RideDetails.label.RideTitle" = "NAVN PÅ TUREN";
+"RideDetails.label.RideDecription" = "TURBESKRIVELSE";
+"RideDetails.label.RideFeel" = "HVORDAN FØLTES TUREN?";
+"RideDetails.label.RideDifficulty" = "TURENS VANSKELIGHETSGRAD";
+"RideDetails.label.SpeedHistory" = "HASTIGHETSHISTORIKK";
+"RideDetails.label.AltitudeHistory" = "HØYDEHISTORIKK";
+"RideDetails.label.ProOnly" = "KUN PRO";
+"RideDetails.label.UpgradeToPro" = "Dette er en PRO-funksjon\n\n Kjøp COMBIKE PRO for å låse opp denne og flere funksjoner.";
+"RideDetails.action.Upgrade" = "Lås opp";
+"RideDetails.label.UpgradeToAccess" = "Oppgrader for å få tilgang til avansert statistikk";
+"RideDetails.label.AddImages" = "Legg til bilder fra turen";
+"RideDetails.label.Easy" = "Lett";
+"RideDetails.label.Moderate" = "Middels";
+"RideDetails.label.Exhausting" = "Krevende";
+"RideDetails.action.SaveDetails" = "Lagre detaljer";
+"RideDetails.action.GPX" = "Eksporter rute som .GPX";
+"RideDetails.label.NoData" = "Ingen tilgjengelige data";
+ 
+"Settings.label.Title" = "INNSTILLINGER";
+"Settings.option1.label.Title" = "BLI PRO-BRUKER";
+"Settings.option1.label.Subtitle" = "Lås opp alle funksjoner";
+"Settings.option2.label.Title" = "VEKTENHET";
+"Settings.option2.label.Subtitle" = "Velg vektenhet";
+"Settings.option3.label.Title" = "DIN VEKT";
+"Settings.option3.label.Subtitle" = "Sett din vekt";
+"Settings.option4.label.Title" = "DISTANSEENHET";
+"Settings.option4.label.Subtitle" = "Velg distanseenhet";
+"Settings.option5.label.Title" = "LYDVARSLER";
+"Settings.option5.label.Subtitle" = "Slå lydvarsler på eller av";
+"Settings.option6.label.Title" = "AUTO-PAUSE";
+"Settings.option6.label.Subtitle" = "Pause når du har vært inaktiv i:";
+"Settings.option7.label.Title" = "PERSONVERNERKLÆRING";
+"Settings.option7.label.Subtitle" = "Lenke til personvernerklæring";
+"Settings.option8.label.Title" = "GJENOPPRETT KJØP";
+"Settings.option8.label.Subtitle" = "Gjenopprett kjøpet";
+"Settings.label.Version" = "versjon";
+ 
+"Misc.rideProgress.label.Title" = "Det er allerede en aktiv tur\nsom går i bakgrunnen.";
+"Misc.rideProgress.label.Subtitle" = "Vil du starte en ny?\nDen påbegynte stoppes.";
+"Misc.rideProgress.action.Cancel" = "Ikke stopp";
+"Misc.rideProgress.action.Continue" = "Ja, stopp den påbegynte turen";
+"Misc.deleteRide.label.Title" = "Slett tur?";
+"Misc.deleteRide.label.Subtitle" = "Du er i ferd med å slette den valgte turen. Ønsker du å fortsette?";
+"Misc.setGoals.label.Title" = "Sett egne mål";
+"Misc.setGoals.label.TextfieldPlaceholder" = "F.eks. 15";
+"Misc.selectWeight.label.Title" = "Velg vektenhet";
+ 
+"Map.alert.Title" = "Velg en karttype";
+"Map.alert.Selection1" = "Standard";
+"Map.alert.Selection2" = "Hybrid";
+"Map.alert.Selection2Pro" = "Hybrid (kun pro)";
+"Map.alert.Selection3" = "Satelitt";
+"Map.alert.Selection3Pro" = "Satelitt (kun pro)";
+
+"RideDetails.alert.ChooseImage" = "Velg bilde";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Galleri";
+"RideDetails.alert.CameraWarning" = "Du har ikke tilgang til";
+"History.alert.ClearHistory" = "Er du sikker på at du vil rydde i historikken?";
+"Settings.alert.NotificationTitle" = "Varlser er ikke tillatt.";
+"Settings.alert.NotificationSubtitle" = "Tillatelser er nødvendig for varsling";
+"Settings.alert.PurchaseTitle" = "Noe gikk galt.";
+"Settings.alert.PurchaseSubtitle" = "Prøv igjen senere.";
+"Settings.alert.InvalidProduct" = "Ugyldig produkt";
+"Settings.alert.ExpiredSince" = "Abonnementet ditt er utløpt siden %d";
+ 
+"HistoryFilter.label.AllTime" = "Hele tiden";
+"HistoryFilter.label.Monthly" = "Månedlig";
+"HistoryFilter.label.Daily" = "Daglig";
+"RideMessageType.label.RideInProgress" = "Tur pågår";
+"RideMessageType.label.RideGoalReached" = "Turens mål er nådd";
+"RideMode.desc.Default" = "Tur uten fastsatt mål";
+"RideMode.desc.Time" = "Tur mot klokken";
+"RideMode.desc.Distance" = "Tur for mil eller kilometer";
+"RideMode.desc.Calories" = "Tur for å brenne kalorier";
+"Sharing.action.Title" = "Hei, sjekk min tur på COMBIKE!";
+
+"General.action.Change" = "Endring";
+"Introduction.page4.label.FreeTrial" = "Du står fritt til å avbryte abonnementet i App Store -appen når som helst";
+"Introduction.action.Start" = "Fortsett med Combike Pro";
+"Settings.option9.label.Title" = "SKIFTE SPRÅK";
+"Settings.option9.label.Subtitle" = "Endre appspråk manuelt";
+"Misc.changeLanguage.label.Title" = "Skifte språk?";
+"Misc.changeLanguage.label.Subtitle" = "Dette vil stoppe den nåværende turen. Ønsker du å endre det?";
+"PrivacyPolicy.alert.Title" = "Du må godta personvernreglene for å fortsette.";

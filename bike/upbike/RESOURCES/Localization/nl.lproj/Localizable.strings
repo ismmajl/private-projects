@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Jouw rit";
+"General.label.Time" = "Tijd";
+"General.label.Distance" = "Afstand";
+"General.label.Calories" = "Calorieën";
+"General.label.MaxSpeed" = "Max. snelheid";
+"General.label.CurrentSpeed" = "Huidige snelheid";
+"General.label.AverageSpeed" = "Gemiddelde snelheid";
+"General.label.MinAltitude" = "Min. hoogte";
+"General.label.MaxAltitude" = "Max. hoogte";
+"General.label.CaloriesBurned" = "Verbrande calorieën";
+"General.action.Select" = "Selecteren";
+"General.action.Cancel" = "Anneleren";
+"General.action.Delete" = "Verwijderen";
+"General.action.Confirm" = "Bevestigen";
+"General.action.Continue" = "Doorgaan";
+"General.action.Warning" = "Waarschuwing";
+"General.action.OK" = "OK";
+"General.action.Close" = "Sluiten";
+"General.action.Settings" = "Instellingen";
+"General.action.Notification" = "Kennisgeving";
+"General.action.Yes" = "Ja";
+"General.action.No" = "Nee";
+   
+"PrivacyPolicy.label.Title" = "Privacy Verklaring";
+"PrivacyPolicy.label.MainTitle" = "Om Combike te kunnen gebruiken moet je eerst onze Privacy Verklaring accepteren. Klik hier om het online te lezen.";
+"PrivacyPolicy.label.MainSubtitle" = "Ik ga akkoord met de Privacy Verklaring";
+"PrivacyPolicy.label.SelectedLabel" = "Klik hier";
+   
+"Introduction.page1.label.Title" = "WELKOM";
+"Introduction.page1.label.Subtitle" = "Geniet van de makkelijkste manier om zowel je fietsritten als je conditie bij te houden.";
+"Introduction.page1.label.Bullet1" = "Leer je vermogen kennen - alle belangrijke cijfers in één oogopslag";
+"Introduction.page1.label.Bullet2" = "Stel verschillende soorten doelen om je grenzen te verleggen";
+"Introduction.page1.label.Bullet3" = "Houd je routes bij en zie je vooruitgang";
+"Introduction.page2.label.Title" = "VOER JE GEWICHT IN";
+"Introduction.page2.label.Subtitle" = "Voer je gewicht in zodat we je calorieverbruik kunnen bijhouden.";
+"Introduction.page3.label.Title" = "TIP: MOBIEL NETWERK";
+"Introduction.page3.label.Subtitle" = "Gebruik mobiele datanetwerk om de nauwkeurigheid van de weergegeven gegevens te verbeteren.";
+"Introduction.page4.label.Title" = "Word een PRO-lid";
+"Introduction.page4.label.Subtitle" = "Geniet van een reclamevrije ervaring en profiteer van vele nieuwe aankomende functies!";
+"Introduction.page4.label.Bullet1" = "Geen advertenties";
+"Introduction.page4.label.Bullet2" = "Doelen stellen en nieuwe kaartopties";
+"Introduction.page4.label.Bullet3" = "Exporteeer je ritten als (.gpx) bestanden";
+"Introduction.page4.label.Yearly" = "jaarlijks";
+"Introduction.page4.label.Monthly" = "maandelijks";
+"Introduction.page4.label.SaveMoney" = "Bespaar tot wel 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 dagen gratis op proef";
+"Introduction.action.Next" = "VOLGENDE!";
+"Introduction.action.GetStarted" = "STARTEN";
+"Introduction.action.Continue" = "DOORGAAN ZONDER VOORDELEN";
+   
+"Introduction.shareLocation.label.Title" = "DEEL LOCATIE";
+"Introduction.shareLocation.label.MainTitle" = "SCHAKEL JE LOCATIE IN MET COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike heeft je locatie nodig om je snelheid en andere gegevens te berekenen.";
+"Introduction.shareLocation.action.EnableLocation" = "Locatie inschakelen";
+   
+"History.label.Title" = "GESCHIEDENIS";
+"History.label.NoRides" = "Er zijn geen geregistreerde ritten voor deze datum.";
+   
+"Main.action.Start" = "START";
+"Main.action.Pause" = "PAUZE";
+"Main.action.Resume" = "HERVATTEN";
+"Main.action.Stop" = "STOPPEN";
+ 
+"Map.label.Title" = "KAART";
+ 
+"Mode.label.Title" = "STEL JE DOEL";
+"Mode.label.cell1.Title" = "TIJD";
+"Mode.label.cell1.Subtitle" = "Rijd tegen de klok";
+"Mode.label.cell2.Title" = "AFSTAND";
+"Mode.label.cell2.Subtitle" = "Wat is het verste dat je kunt gaan?";
+"Mode.label.cell3.Title" = "CALORIEËN";
+"Mode.label.cell3.Subtitle" = "Start met rijden om calorieën te verbranden";
+ 
+"Congratulations.label.Title" = "GEFELICITEERD";
+"Congratulations.label.Subtitle" = "Dat was een stevige rit!";
+"Congratulations.action.Share" = "Deel Rit";
+ 
+"RideDetails.label.StartEndTime" = "BEGIN- EN EINDTIJD VAN DE RIT";
+"RideDetails.label.RideTitle" = "RIT TITEL";
+"RideDetails.label.RideDecription" = "BESCHRIJVING VAN DE RIT";
+"RideDetails.label.RideFeel" = "HOE VOELDE DE RIT AAN?";
+"RideDetails.label.RideDifficulty" = "MOEILIJKHEIDSGRAAD VAN DE RIT";
+"RideDetails.label.SpeedHistory" = "SNELHEID GESCHIEDENIS";
+"RideDetails.label.AltitudeHistory" = "HOOGTE GESCHIEDENIS";
+"RideDetails.label.ProOnly" = "ALLEEN VOOR PRO";
+"RideDetails.label.UpgradeToPro" = "Dit is een PRO functie. Haal COMBIKE PRO om deze en meer functies te ontgrendelen.";
+"RideDetails.action.Upgrade" = "Ontgrendel";
+"RideDetails.label.UpgradeToAccess" = "Upgrade om toegang te krijgen tot geavanceerde statistieken.";
+"RideDetails.label.AddImages" = "Afbeeldingen aan je rit toevoegen";
+"RideDetails.label.Easy" = "Gemakkelijk";
+"RideDetails.label.Moderate" = "Matig";
+"RideDetails.label.Exhausting" = "Uitputtend";
+"RideDetails.action.SaveDetails" = "Bewaar details";
+"RideDetails.action.GPX" = "Route als .GPX exporteren";
+"RideDetails.label.NoData" = "Geen gegevens beschikbaar";
+ 
+"Settings.label.Title" = "INSTELLINGEN";
+"Settings.option1.label.Title" = "WORDT EEN PRO GEBRUIKER";
+"Settings.option1.label.Subtitle" = "Ontgrendel alle functies";
+"Settings.option2.label.Title" = "GEWICHTSEENHEID";
+"Settings.option2.label.Subtitle" = "Selecteer gewichtseenheid";
+"Settings.option3.label.Title" = "JOUW GEWICHT";
+"Settings.option3.label.Subtitle" = "Stel je gewicht in";
+"Settings.option4.label.Title" = "AFSTANDSEENHEID";
+"Settings.option4.label.Subtitle" = "Selecteer de afstandseenheid";
+"Settings.option5.label.Title" = "GELUIDSMELDING";
+"Settings.option5.label.Subtitle" = "Geluidsmelding aan of uit zetten";
+"Settings.option6.label.Title" = "AUTOMATISCHE PAUZE";
+"Settings.option6.label.Subtitle" = "Pauzeer nadat je niets hebt gedaan:";
+"Settings.option7.label.Title" = "PRIVACY BELEID";
+"Settings.option7.label.Subtitle" = "Link naar het privacy beleid";
+"Settings.option8.label.Title" = "AANKOOP HERSTELLEN";
+"Settings.option8.label.Subtitle" = "Herstel je aankoop";
+"Settings.label.Version" = "versie";
+ 
+"Misc.rideProgress.label.Title" = "Er is al een actieve rit op de achtergrond.";
+"Misc.rideProgress.label.Subtitle" = "Wil je een nieuwe starten? De huidige wordt gestopt.";
+"Misc.rideProgress.action.Cancel" = "Niet Stoppen";
+"Misc.rideProgress.action.Continue" = "Ja, stop de huidige rit";
+"Misc.deleteRide.label.Title" = "Rit verwijderen?";
+"Misc.deleteRide.label.Subtitle" = "Je staat op het punt de geselecteerde rit te verwijderen. Wil je doorgaan?";
+"Misc.setGoals.label.Title" = "Stel je doel vast";
+"Misc.setGoals.label.TextfieldPlaceholder" = "bijv. 15";
+"Misc.selectWeight.label.Title" = "Selecteer Gewichtseenheid";
+ 
+"Map.alert.Title" = "Kies een kaart stijl";
+"Map.alert.Selection1" = "Standaard";
+"Map.alert.Selection2" = "Hybride";
+"Map.alert.Selection2Pro" = "Hybride (alleen Pro)";
+"Map.alert.Selection3" = "Satelliet";
+"Map.alert.Selection3Pro" = "Satelliet (alleen Pro)";
+
+"RideDetails.alert.ChooseImage" = "Kies een afbeelding";
+"RideDetails.alert.Camera" = "Camera";
+"RideDetails.alert.Gallery" = "Gallerij ";
+"RideDetails.alert.CameraWarning" = "Je hebt geen toestemming om de ";
+"History.alert.ClearHistory" = "Weet je zeker dat je de geschiedenis wilt wissen?";
+"Settings.alert.NotificationTitle" = "Notificaties zijn niet toegestaan.";
+"Settings.alert.NotificationSubtitle" = "Toestemmingen zijn nodig voor de notificatie";
+"Settings.alert.PurchaseTitle" = "Er ging iets mis.";
+"Settings.alert.PurchaseSubtitle" = "Probeer het later opnieuw.";
+"Settings.alert.InvalidProduct" = "Ongeldig product";
+"Settings.alert.ExpiredSince" = "Je abonnement is verlopen sinds %d";
+ 
+"HistoryFilter.label.AllTime" = "Altijd";
+"HistoryFilter.label.Monthly" = "Maandelijks";
+"HistoryFilter.label.Daily" = "Dagelijks";
+"RideMessageType.label.RideInProgress" = "Rit in uitvoering";
+"RideMessageType.label.RideGoalReached" = "Doel van de rit is bereikt";
+"RideMode.desc.Default" = "Rijden zonder vastgesteld doel";
+"RideMode.desc.Time" = "Rijden tegen de klok";
+"RideMode.desc.Distance" = "Mijlen of kilometers rijden";
+"RideMode.desc.Calories" = "Rijden om calorieën te verbranden";
+"Sharing.action.Title" = "Hey, check mijn rit op COMBIKE!";
+
+"General.action.Change" = "Wijziging";
+"Introduction.page4.label.FreeTrial" = "U bent vrij om uw abonnement in de App Store -app op elk moment te annuleren";
+"Introduction.action.Start" = "Ga door met Combike Pro";
+"Settings.option9.label.Title" = "Verander taal";
+"Settings.option9.label.Subtitle" = "Verander de app -taal handmatig";
+"Misc.changeLanguage.label.Title" = "Taal veranderen?";
+"Misc.changeLanguage.label.Subtitle" = "Dit stopt de huidige rit. Wilt u het veranderen?";
+"PrivacyPolicy.alert.Title" = "U moet het privacybeleid accepteren om door te gaan.";

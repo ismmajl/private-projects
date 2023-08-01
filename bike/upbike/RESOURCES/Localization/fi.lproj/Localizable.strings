@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Sinun matkasi";
+"General.label.Time" = "Aika";
+"General.label.Distance" = "Etäisyys";
+"General.label.Calories" = "Kalorit";
+"General.label.MaxSpeed" = "Maksimi nopeus ";
+"General.label.CurrentSpeed" = "Nykyinen nopeus ";
+"General.label.AverageSpeed" = "Keskimääräinen nopeus ";
+"General.label.MinAltitude" = "Minimi korkeus ";
+"General.label.MaxAltitude" = "Maksimi korkeus ";
+"General.label.CaloriesBurned" = "Kaloreita poltettu ";
+"General.action.Select" = "VALITSE";
+"General.action.Cancel" = "Peruuta";
+"General.action.Delete" = "Poista";
+"General.action.Confirm" = "Hyväksy";
+"General.action.Continue" = "Jatka";
+"General.action.Warning" = "Varoitus";
+"General.action.OK" = "OK";
+"General.action.Close" = "Sulje";
+"General.action.Settings" = "Asetukset ";
+"General.action.Notification" = "Ilmoitus";
+"General.action.Yes" = "Joo";
+"General.action.No" = "Ei";
+ 
+"PrivacyPolicy.label.Title" = "Yksityisyyskäytäntö";
+"PrivacyPolicy.label.MainTitle" = "Käyttääksesi Combikea sinun on hyväksyttävä yksityisyyskäytäntö. Klikkaa tästä lukeaksesi sen selaimessa. ";
+"PrivacyPolicy.label.MainSubtitle" = "Hyväksyn yksityisyyskäytännön ehdot";
+"PrivacyPolicy.label.SelectedLabel" = "Klikkaa tästä ";
+ 
+"Introduction.page1.label.Title" = "TERVETULOA";
+"Introduction.page1.label.Subtitle" = "Nauti helpoimmasta tavasta seurata pyöräilymatkojasi ja kuntoasi!";
+"Introduction.page1.label.Bullet1" = "Tutustu omaan suorituskykyysi- kaikki tärkeät mittarit yhdellä silmäyksellä!";
+"Introduction.page1.label.Bullet2" = "Aseta erilaisia tavoitteita työntääksesi rajojasi";
+"Introduction.page1.label.Bullet3" = "Pidä kirjaa reiteistäsi ja nää edistyksesi ";
+"Introduction.page2.label.Title" = "ASETA PAINOSI";
+"Introduction.page2.label.Subtitle" = "Aseta painosi jotta voimme tarkkailla kalorinkulutustasi";
+"Introduction.page3.label.Title" = "VINKKI: MATKAPUHELINVERKKO";
+"Introduction.page3.label.Subtitle" = "Käytä matkapuhelinverkkoa edistääksesi esitetyn datan paikkaansapitävyyttä";
+"Introduction.page4.label.Title" = "Liity PRO- jäseneksi ";
+"Introduction.page4.label.Subtitle" = "Nauti kokemuksesta ilman mainoksia ja hyödy monista uusista tulevista ominaisuuksista!";
+"Introduction.page4.label.Bullet1" = "Ei mainoksia ";
+"Introduction.page4.label.Bullet2" = "Tavoitteiden asettaminen ja uuden kartan asetukset ";
+"Introduction.page4.label.Bullet3" = "Muuta ajosi (.gpx) tiedostoiksi ";
+"Introduction.page4.label.Yearly" = "Vuosittain";
+"Introduction.page4.label.Monthly" = "Kuukausittain ";
+"Introduction.page4.label.SaveMoney" = "Säästä jopa 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 päivän ilmainen kokeilu";
+"Introduction.action.Next" = "SEURAAVA!";
+"Introduction.action.GetStarted" = "ALOITA ";
+"Introduction.action.Continue" = "ALOITA ILMAN ETUJA";
+ 
+"Introduction.shareLocation.label.Title" = "JAA SIJAINTI";
+"Introduction.shareLocation.label.MainTitle" = "OTA KÄYTTÖÖN SIJAINNIN JAKO COMBIKEN KANSSA ";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike tarvitsee sinun sijaintisi nopeuden laskemiseen sekä muihin mittareihin  ";
+"Introduction.shareLocation.action.EnableLocation" = "OTA KÄYTTÖÖN SIJAINNIN JAKO COMBIKEN KANSSA ";
+ 
+"History.label.Title" = "HISTORIA";
+"History.label.NoRides" = "Ei tallennettuja matkoja tällä päivämäärällä. ";
+ 
+"Main.action.Start" = "ALOITA";
+"Main.action.Pause" = "TAUKO";
+"Main.action.Resume" = "VALIKKO";
+"Main.action.Stop" = "LOPETA";
+ 
+"Map.label.Title" = "KARTTA";
+ 
+"Mode.label.Title" = "ASETA TAVOITTEESI";
+"Mode.label.cell1.Title" = "AIKA";
+"Mode.label.cell1.Subtitle" = "AJA KELLOA VASTAAN ";
+"Mode.label.cell2.Title" = "ETÄISYYS";
+"Mode.label.cell2.Subtitle" = "Kuinka pitkälle pystyt menemään?";
+"Mode.label.cell3.Title" = "KALORIT";
+"Mode.label.cell3.Subtitle" = "Aja polttaaksesi kaloreita ";
+ 
+"Congratulations.label.Title" = "ONNEKSI OLKOON";
+"Congratulations.label.Subtitle" = "Olipa kovaa menoa!";
+"Congratulations.action.Share" = "Jaa matka";
+ 
+"RideDetails.label.StartEndTime" = "AJON ALOITUS- JA LOPETUSAIKA ";
+"RideDetails.label.RideTitle" = "AJON OTSIKKO ";
+"RideDetails.label.RideDecription" = "AJON KUVAUS";
+"RideDetails.label.RideFeel" = "MILTÄ AJO TUNTUI?";
+"RideDetails.label.RideDifficulty" = "AJON VAIKEUS";
+"RideDetails.label.SpeedHistory" = "NOPEUSHISTORIA";
+"RideDetails.label.AltitudeHistory" = "KORKEUSHISTORIA ";
+"RideDetails.label.ProOnly" = "VAIN PRO- JÄSENILLE ";
+"RideDetails.label.UpgradeToPro" = "Tämä on PRO ominaisuus\n\nHanki COMBIKE PRO avataksesi tämän ja monia muita ominaisuuksia.";
+"RideDetails.action.Upgrade" = "Avaa";
+"RideDetails.label.UpgradeToAccess" = "Päivitä tilauksesi saadaksesi pääsyn edistyneisiin tilastoihin ";
+"RideDetails.label.AddImages" = "Lisää kuvia ajostasi";
+"RideDetails.label.Easy" = "Helppo";
+"RideDetails.label.Moderate" = "Keskivaikea";
+"RideDetails.label.Exhausting" = "Uuvuttava";
+"RideDetails.action.SaveDetails" = "Tallenna tarkemmat tiedot";
+"RideDetails.action.GPX" = "Muuta reitti .GPX- tiedostoksi ";
+"RideDetails.label.NoData" = "Ei tietoja saatavilla";
+ 
+"Settings.label.Title" = "ASETUKSET";
+"Settings.option1.label.Title" = "LIITY PRO-KÄYTTÄJÄKSI";
+"Settings.option1.label.Subtitle" = "Avaa kaikki ominaisuudet ";
+"Settings.option2.label.Title" = "Painoluokka";
+"Settings.option2.label.Subtitle" = "Valitse painoluokka";
+"Settings.option3.label.Title" = "SINUN PAINOSI";
+"Settings.option3.label.Subtitle" = "Aseta painosi";
+"Settings.option4.label.Title" = "Etäisyysyksikkö ";
+"Settings.option4.label.Subtitle" = "Valitse etäisyysyksikkö ";
+"Settings.option5.label.Title" = "Ilmoitusäänet";
+"Settings.option5.label.Subtitle" = "Ilmoitusäänet päälle tai pois";
+"Settings.option6.label.Title" = "AUTOMAATTINEN TAUKO";
+"Settings.option6.label.Subtitle" = "Pysäytä kun olet ollut toimeettomana: ";
+"Settings.option7.label.Title" = "YKSITYISYYSKÄYTÄNTÖ";
+"Settings.option7.label.Subtitle" = "Linkki yksityisyyskäytäntöön";
+"Settings.option8.label.Title" = "PALAUTA OSTOSI";
+"Settings.option8.label.Subtitle" = "Palauta ostosi ";
+"Settings.label.Version" = "versio";
+ 
+"Misc.rideProgress.label.Title" = "Taustalla on jo aktiivinen ajo\ npäällä";
+"Misc.rideProgress.label.Subtitle" = "Haluatko aloittaa uuden?\Nykyinen lopetetaan";
+"Misc.rideProgress.action.Cancel" = "Älä lopeta";
+"Misc.rideProgress.action.Continue" = "Kyllä, lopeta nykyinen ajo";
+"Misc.deleteRide.label.Title" = "Poista Ajo?";
+"Misc.deleteRide.label.Subtitle" = "Olet poistamassa valitun ajon. Haluatko jatkaa?";
+"Misc.setGoals.label.Title" = "Valitse tavoitteesi";
+"Misc.setGoals.label.TextfieldPlaceholder" = "Esim. 15";
+"Misc.selectWeight.label.Title" = "Valitse painoluokka";
+ 
+"Map.alert.Title" = "Valitse kartan tyyli";
+"Map.alert.Selection1" = "Oletus ";
+"Map.alert.Selection2" = "Hybridi";
+"Map.alert.Selection2Pro" = "Hybridi (vain PRO- jäsenille)";
+"Map.alert.Selection3" = "Sateliitti";
+"Map.alert.Selection3Pro" = "Sateliitti (vain PRO- jäsenille)";
+
+"RideDetails.alert.ChooseImage" = "Valitse kuva ";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Galleria";
+"RideDetails.alert.CameraWarning" = "Sinulla ei ole käyttöoikeuksia";
+"History.alert.ClearHistory" = "Oletko varma että haluat tyhjentää historian?";
+"Settings.alert.NotificationTitle" = "Ilmoituksia ei ole sallittu";
+"Settings.alert.NotificationSubtitle" = "Ilmoituksille vaaditaan lupa ";
+"Settings.alert.PurchaseTitle" = "Jotain meni pieleen.";
+"Settings.alert.PurchaseSubtitle" = "Yritä myöhemmin uudelleen.";
+"Settings.alert.InvalidProduct" = "Virheellinen tuote";
+"Settings.alert.ExpiredSince" = "Tilauksesi on vanhentunut %d";
+ 
+"HistoryFilter.label.AllTime" = "Koko ajan";
+"HistoryFilter.label.Monthly" = "Kuukausittain";
+"HistoryFilter.label.Daily" = "Päivittäin";
+"RideMessageType.label.RideInProgress" = "Ajo käynnissä";
+"RideMessageType.label.RideGoalReached" = "Ajon tavoite saavutettu";
+"RideMode.desc.Default" = "Aja ilman asetettua tavoitetta";
+"RideMode.desc.Time" = "Aja kelloa vastaan ";
+"RideMode.desc.Distance" = "Aja maileja tai kilometrejä";
+"RideMode.desc.Calories" = "Aja polttaaksesi kaloreita";
+"Sharing.action.Title" = "Hei, tsekkaa ajoni COMBIKESSA!";
+
+"General.action.Change" = "Muuttaa";
+"Introduction.page4.label.FreeTrial" = "Voit vapaasti peruuttaa tilauksesi App Store -sovelluksessa milloin tahansa";
+"Introduction.action.Start" = "Jatka Combike Pro: n kanssa";
+"Settings.option9.label.Title" = "VAIHDA KIELTÄ";
+"Settings.option9.label.Subtitle" = "Vaihda sovelluskieli manuaalisesti";
+"Misc.changeLanguage.label.Title" = "Vaihda kieltä?";
+"Misc.changeLanguage.label.Subtitle" = "Tämä pysäyttää nykyisen matkan. Haluatko muuttaa sitä?";
+"PrivacyPolicy.alert.Title" = "Sinun on hyväksyttävä tietosuojakäytäntö jatkaaksesi.";

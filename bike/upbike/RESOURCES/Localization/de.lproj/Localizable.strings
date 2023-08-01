@@ -1,0 +1,31 @@
+/*
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+ 
+"General.label.DefaultRide" = "Deine Fahrt";
+"General.label.Time" = "Zeit";
+"General.label.Distance" = "Strecke";
+"General.label.Calories" = "Kalorien";
+"General.label.MaxSpeed" = "Max. Geschw.";
+"General.label.CurrentSpeed" = "Geschwindigkeit";
+"General.label.AverageSpeed" = "⌀ Geschw.";
+"General.label.MinAltitude" = "Min. Höhe";
+"General.label.MaxAltitude" = "Max. Höhe";
+"General.label.CaloriesBurned" = "Kalorien verbrannt";
+"General.action.Select" = "AUSWÄHLEN";
+"General.action.Cancel" = "Abbrechen";
+"General.action.Delete" = "Löschen";
+"General.action.Confirm" = "Bestätigen";
+"General.action.Continue" = "FORTSETZEN";
+"General.action.Warning" = "Warnung";
+"General.action.OK" = "OK";
+"General.action.Close" = "Schließen";
+"General.action.Settings" = "Einstellungen";
+"General.action.Notification" = "Benachrichtigung";
+"General.action.Yes" = "Ja";
+"General.action.No" = "Nein";

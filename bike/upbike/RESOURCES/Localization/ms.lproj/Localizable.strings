@@ -1,0 +1,172 @@
+/* 
+  Localizable.strings
+  Combike
+
+  Created by Muhamed Zahiri on 26.09.22.
+  Copyright © 2022 Tenton. All rights reserved.
+*/
+
+
+"General.label.DefaultRide" = "Kayuhan anda";
+"General.label.Time" = "Masa";
+"General.label.Distance" = "Jarak";
+"General.label.Calories" = "Kalori";
+"General.label.MaxSpeed" = "Kelajuan maksimum";
+"General.label.CurrentSpeed" = "Kelajuan semasa";
+"General.label.AverageSpeed" = "Purata Kelajuan";
+"General.label.MinAltitude" = "Altitud minimum";
+"General.label.MaxAltitude" = "Altitud maksimum";
+"General.label.CaloriesBurned" = "Kalori dibakar";
+"General.action.Select" = "PILIH";
+"General.action.Cancel" = "Batal";
+"General.action.Delete" = "Padam";
+"General.action.Confirm" = "Sahkan";
+"General.action.Continue" = "TERUSKAN";
+"General.action.Warning" = "Peringatan";
+"General.action.OK" = "OK";
+"General.action.Close" = "Tutup";
+"General.action.Settings" = "Tetapan";
+"General.action.Notification" = "Pemberitahuan";
+"General.action.Yes" = "Ya";
+"General.action.No" = "Tidak";
+ 
+"PrivacyPolicy.label.Title" = "Dasar Privasi";
+"PrivacyPolicy.label.MainTitle" = "Untuk menggunakan Combike anda perlu menerima Dasar Privasi kami. Klik disini untuk membacanya dalam talian.";
+"PrivacyPolicy.label.MainSubtitle" = "Saya bersetuju dengan Dasar Privasi";
+"PrivacyPolicy.label.SelectedLabel" = "Klik disini";
+ 
+"Introduction.page1.label.Title" = "SELAMAT DATANG";
+"Introduction.page1.label.Subtitle" = "Nikmati cara paling mudah untuk menjejaki kayuhan basikal anda dan kecergasan anda!";
+"Introduction.page1.label.Bullet1" = "Ketahui prestasi anda - semua metrik penting terus dapat dilihat";
+"Introduction.page1.label.Bullet2" = "Tetapkan jenis matlamat yang berbeza untuk melangkaui batasan anda";
+"Introduction.page1.label.Bullet3" = "Jejaki laluan anda dan lihat kemajuan anda";
+"Introduction.page2.label.Title" = "MASUKKAN BERAT BADAN ANDA";
+"Introduction.page2.label.Subtitle" = "Sila masukkan berat badan anda supaya kami dapat menjejak pengambilan kalori anda.";
+"Introduction.page3.label.Title" = "TIP: RANGKAIAN SELULAR";
+"Introduction.page3.label.Subtitle" = "Gunakan rangkaian data selular untuk meningkatkan ketepatan data yang dipaparkan.";
+"Introduction.page4.label.Title" = "Jadi ahli PRO";
+"Introduction.page4.label.Subtitle" = "Nikmati pengalaman bebas iklan dan manfaat daripada banyak ciri-ciri baru yang akan datang!";
+"Introduction.page4.label.Bullet1" = "Tiada iklan";
+"Introduction.page4.label.Bullet2" = "Penetapan matlamat dan pilihan peta baru";
+"Introduction.page4.label.Bullet3" = "Eksport kayuhan anda sebagai fail (.gpx)";
+"Introduction.page4.label.Yearly" = "tahunan";
+"Introduction.page4.label.Monthly" = "bulanan";
+"Introduction.page4.label.SaveMoney" = "Jimat sehingga 70%";
+"Introduction.page4.label.pricePaymentTrial" = "7 hari percubaan percuma";
+"Introduction.action.Next" = "SETERUSNYA!";
+"Introduction.action.GetStarted" = "MULAKAN";
+"Introduction.action.Continue" = "TERUSKAN TANPA FAEDAH";
+ 
+"Introduction.shareLocation.label.Title" = "KONGSI LOKASI";
+"Introduction.shareLocation.label.MainTitle" = "HIDUPKAN LOKASI DENGAN COMBIKE";
+"Introduction.shareLocation.label.MainSubtitle" = "Combike memerlukan lokasi anda untuk mengira kelajuan dan metrik yang lain.";
+"Introduction.shareLocation.action.EnableLocation" = "Hidupkan lokasi";
+ 
+"History.label.Title" = "SEJARAH";
+"History.label.NoRides" = "Tiada kayuhan yang direkodkan untuk tarikh ini.";
+ 
+"Main.action.Start" = "MULA";
+"Main.action.Pause" = "JEDA";
+"Main.action.Resume" = "TERUSKAN";
+"Main.action.Stop" = "BERHENTI";
+ 
+"Map.label.Title" = "PETA";
+ 
+"Mode.label.Title" = "TETAPKAN MATLAMAT ANDA";
+"Mode.label.cell1.Title" = "MASA";
+"Mode.label.cell1.Subtitle" = "Berbasikal melawan masa";
+"Mode.label.cell2.Title" = "JARAK";
+"Mode.label.cell2.Subtitle" = "Seberapa jauh anda boleh pergi?";
+"Mode.label.cell3.Title" = "KALORI";
+"Mode.label.cell3.Subtitle" = "Berbasikal untuk membakar kalori";
+ 
+"Congratulations.label.Title" = "TAHNIAH";
+"Congratulations.label.Subtitle" = "Itu adalah kayuhan yang padu!";
+"Congratulations.action.Share" = "Kongsi Kayuhan";
+ 
+"RideDetails.label.StartEndTime" = "MASA MULA DAN TAMAT KAYUHAN";
+"RideDetails.label.RideTitle" = "TAJUK KAYUHAN";
+"RideDetails.label.RideDecription" = "PENERANGAN KAYUHAN";
+"RideDetails.label.RideFeel" = "BAGAIMANAKAH RASANYA KAYUHAN ITU?";
+"RideDetails.label.RideDifficulty" = "KESUKARAN KAYUHAN";
+"RideDetails.label.SpeedHistory" = "SEJARAH KAYUHAN";
+"RideDetails.label.AltitudeHistory" = "SEJARAH ALTITUD";
+"RideDetails.label.ProOnly" = "PRO SAHAJA";
+"RideDetails.label.UpgradeToPro" = "Ini adalah ciri PRO\n\nDapatkan COMBIKE PRO untuk membuka ciri ini dan banyak lagi.";
+"RideDetails.action.Upgrade" = "Buka ciri";
+"RideDetails.label.UpgradeToAccess" = "Naik taraf untuk mendapatkan akses ke statistik terperinci.";
+"RideDetails.label.AddImages" = "Tambahkan gambar pada kayuhan anda";
+"RideDetails.label.Easy" = "Mudah";
+"RideDetails.label.Moderate" = "Sederhana";
+"RideDetails.label.Exhausting" = "Memenatkan";
+"RideDetails.action.SaveDetails" = "Simpan butiran";
+"RideDetails.action.GPX" = "Eksport laluan sebagai .GPX";
+"RideDetails.label.NoData" = "Tiada data yang boleh didapati";
+ 
+"Settings.label.Title" = "TETAPAN";
+"Settings.option1.label.Title" = "JADI PENGGUNA PRO";
+"Settings.option1.label.Subtitle" = "Buka semua ciri";
+"Settings.option2.label.Title" = "UNIT BERAT";
+"Settings.option2.label.Subtitle" = "Pilih unit untuk berat";
+"Settings.option3.label.Title" = "BERAT BADAN ANDA";
+"Settings.option3.label.Subtitle" = "Tetapkan berat anda";
+"Settings.option4.label.Title" = "UNIT JARAK";
+"Settings.option4.label.Subtitle" = "Pilih unit untuk jarak";
+"Settings.option5.label.Title" = "NOTIFIKASI BUNYI";
+"Settings.option5.label.Subtitle" = "Hidupkan atau matikan notifikasi bunyi";
+"Settings.option6.label.Title" = "JEDA AUTOMATIK";
+"Settings.option6.label.Subtitle" = "Jeda apabila anda tidak melakukan aktiviti selama:";
+"Settings.option7.label.Title" = "DASAR PRIVASI";
+"Settings.option7.label.Subtitle" = "Pautan ke dasar privasi";
+"Settings.option8.label.Title" = "PULIHKAN PEMBELIAN";
+"Settings.option8.label.Subtitle" = "Pulihkan pembelian anda";
+"Settings.label.Version" = "versi";
+ 
+"Misc.rideProgress.label.Title" = "Sudah ada kayuhan yang aktif\nberjalan di latar belakang.";
+"Misc.rideProgress.label.Subtitle" = "Adakah anda ingin memulakan yang baru?\nRekod kayuhan semasa akan dihentikan.";
+"Misc.rideProgress.action.Cancel" = "Jangan Hentikan";
+"Misc.rideProgress.action.Continue" = "Ya, hentikan kayuhan semasa";
+"Misc.deleteRide.label.Title" = "Padam Kayuhan?";
+"Misc.deleteRide.label.Subtitle" = "Anda bakal memadamkan kayuhan yang dipilih. Adakah anda ingin meneruskan?";
+"Misc.setGoals.label.Title" = "Sila tetapkan matlamat anda";
+"Misc.setGoals.label.TextfieldPlaceholder" = "contohnya 15";
+"Misc.selectWeight.label.Title" = "Pilih unit untuk Berat";
+ 
+"Map.alert.Title" = "Pilih gaya peta";
+"Map.alert.Selection1" = "Standard";
+"Map.alert.Selection2" = "Hibrid";
+"Map.alert.Selection2Pro" = "Hibrid (Pro sahaja)";
+"Map.alert.Selection3" = "Satelit";
+"Map.alert.Selection3Pro" = "Satelit (Pro sahaja)";
+
+"RideDetails.alert.ChooseImage" = "Pilih Gambar";
+"RideDetails.alert.Camera" = "Kamera";
+"RideDetails.alert.Gallery" = "Galeri";
+"RideDetails.alert.CameraWarning" = "Anda tidak mempunyai kebenaran untuk mengakses";
+"History.alert.ClearHistory" = "Adakah anda pasti anda mahu memadam sejarah?";
+"Settings.alert.NotificationTitle" = "Notifikasi tidak dibenarkan.";
+"Settings.alert.NotificationSubtitle" = "Kebenaran diperlukan untuk notifikasi";
+"Settings.alert.PurchaseTitle" = "Ada sesuatu yang tidak kena.";
+"Settings.alert.PurchaseSubtitle" = "Cuba lagi nanti.";
+"Settings.alert.InvalidProduct" = "Produk tidak sah";
+"Settings.alert.ExpiredSince" = "Langganan anda telah tamat tempoh sejak %d";
+ 
+"HistoryFilter.label.AllTime" = "Semua masa";
+"HistoryFilter.label.Monthly" = "Bulanan";
+"HistoryFilter.label.Daily" = "Harian";
+"RideMessageType.label.RideInProgress" = "Kayuhan sedang Dibuat";
+"RideMessageType.label.RideGoalReached" = "Matlamat kayuhan telah dicapai";
+"RideMode.desc.Default" = "Kayuhan tanpa penetapan matlamat";
+"RideMode.desc.Time" = "Berbasikal melawan masa";
+"RideMode.desc.Distance" = "Berbasikal berbatu-batu atau berkilometer";
+"RideMode.desc.Calories" = "Berbasikal untuk membakar kalori";
+"Sharing.action.Title" = "Hei, lihat kayuhan saya di COMBIKE!";
+
+"General.action.Change" = "Ubah";
+"Introduction.page4.label.FreeTrial" = "Anda bebas membatalkan langganan anda dalam aplikasi App Store pada bila -bila masa";
+"Introduction.action.Start" = "Teruskan dengan Combike Pro";
+"Settings.option9.label.Title" = "TUKAR BAHASA";
+"Settings.option9.label.Subtitle" = "Menukar bahasa aplikasi secara manual";
+"Misc.changeLanguage.label.Title" = "Tukar bahasa?";
+"Misc.changeLanguage.label.Subtitle" = "Ini akan menghentikan perjalanan semasa. Adakah anda ingin mengubahnya?";
+"PrivacyPolicy.alert.Title" = "Anda perlu menerima Dasar Privasi untuk diteruskan.";
