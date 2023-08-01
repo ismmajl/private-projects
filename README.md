@@ -12,6 +12,9 @@ Project 3: Radio Description: Discover and listen to your favorite radio, provid
 
 # Contact
 If you have any questions or need further assistance, please feel free to reach out to me:
+
 Email: ismajl.marevci@gmail.com 
+
 LinkedIn: Ismajl Marevci 
+
 Thank you for your interest in the projects! Happy testing! 🚀
