@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1064691083980-8l99a6adlshmu33nolcr2pqo8nagvq4q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1064691083980-8l99a6adlshmu33nolcr2pqo8nagvq4q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGAkLMcc5beF4Z6b6NyeQSXVZ7Bvt2f08</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1064691083980</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ch.luuria.luuria</string>
+	<key>PROJECT_ID</key>
+	<string>luuria</string>
+	<key>STORAGE_BUCKET</key>
+	<string>luuria.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1064691083980:ios:2ab8b6e9255481e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://luuria.firebaseio.com</string>
+</dict>
+</plist>

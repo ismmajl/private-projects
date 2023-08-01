@@ -1,0 +1,567 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		520C955021FF485200231E46 /* Booking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520C954F21FF485100231E46 /* Booking.swift */; };
+		520C955221FF494A00231E46 /* BookingREST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 520C955121FF494A00231E46 /* BookingREST.swift */; };
+		52530088221C0FED005EE7D1 /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52530087221C0FED005EE7D1 /* Filter.swift */; };
+		526084E521B6A69C001E36A2 /* Wallet.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 526084E421B6A69C001E36A2 /* Wallet.storyboard */; };
+		52A3B0D221BE69C900EC3EC1 /* AlertSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3B0D121BE69C900EC3EC1 /* AlertSheet.swift */; };
+		52B6D3D121A2B63F0030242A /* EnviromentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B6D3D021A2B63F0030242A /* EnviromentManager.swift */; };
+		52D0D9EF21B185A7005FC75E /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D0D9EE21B185A7005FC75E /* Review.swift */; };
+		52F5D1CF22400CE300C96B77 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 52F5D1CE22400CE300C96B77 /* GoogleService-Info.plist */; };
+		A562E73C218095090045A62F /* ForgotPasswordController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A562E73B218095090045A62F /* ForgotPasswordController.swift */; };
+		A58ACC4D21907EB70026ED93 /* AccountManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58ACC4C21907EB70026ED93 /* AccountManager.swift */; };
+		A58ACC5321909D670026ED93 /* REST.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58ACC5221909D670026ED93 /* REST.swift */; };
+		A5B3B137217DF469009A27A5 /* TabBar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5B3B136217DF469009A27A5 /* TabBar.storyboard */; };
+		A5B3B148217DF7C6009A27A5 /* BookingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B3B147217DF7C6009A27A5 /* BookingController.swift */; };
+		A5B3B14C217DF82B009A27A5 /* Bookings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5B3B14B217DF82B009A27A5 /* Bookings.storyboard */; };
+		A5B3B150217DF96D009A27A5 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B3B14F217DF96D009A27A5 /* TabBarController.swift */; };
+		A5DD4715217DBE540026C254 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DD4714217DBE540026C254 /* AppDelegate.swift */; };
+		A6AA385721F5F53100301FB4 /* OfflineFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6AA385621F5F53100301FB4 /* OfflineFileManager.swift */; };
+		A6AA385921F5F58000301FB4 /* UploadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6AA385821F5F58000301FB4 /* UploadManager.swift */; };
+		A6AA385B21F5FA3C00301FB4 /* CacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6AA385A21F5FA3C00301FB4 /* CacheManager.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		520C954F21FF485100231E46 /* Booking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Booking.swift; sourceTree = "<group>"; };
+		520C955121FF494A00231E46 /* BookingREST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingREST.swift; sourceTree = "<group>"; };
+		52530087221C0FED005EE7D1 /* Filter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filter.swift; sourceTree = "<group>"; };
+		526084E421B6A69C001E36A2 /* Wallet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Wallet.storyboard; sourceTree = "<group>"; };
+		5283D97021AFF30A00633CBA /* luuria.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = luuria.entitlements; sourceTree = "<group>"; };
+		52A3B0D121BE69C900EC3EC1 /* AlertSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertSheet.swift; sourceTree = "<group>"; };
+		52B6D3D021A2B63F0030242A /* EnviromentManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviromentManager.swift; sourceTree = "<group>"; };
+		52D0D9EE21B185A7005FC75E /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
+		52F5D1CE22400CE300C96B77 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		A562E73B218095090045A62F /* ForgotPasswordController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordController.swift; sourceTree = "<group>"; };
+		A58ACC4C21907EB70026ED93 /* AccountManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountManager.swift; sourceTree = "<group>"; };
+		A58ACC5221909D670026ED93 /* REST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REST.swift; sourceTree = "<group>"; };
+		A5B3B136217DF469009A27A5 /* TabBar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TabBar.storyboard; sourceTree = "<group>"; };
+		A5B3B147217DF7C6009A27A5 /* BookingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingController.swift; sourceTree = "<group>"; };
+		A5B3B14B217DF82B009A27A5 /* Bookings.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Bookings.storyboard; sourceTree = "<group>"; };
+		A5B3B14F217DF96D009A27A5 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		A5DD4711217DBE540026C254 /* luuria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = luuria.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5DD4714217DBE540026C254 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A5DD4720217DBE550026C254 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A64A8C5E21EF73A10039D0AE /* luuria-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "luuria-Bridging-Header.h"; sourceTree = "<group>"; };
+		A6AA385621F5F53100301FB4 /* OfflineFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfflineFileManager.swift; sourceTree = "<group>"; };
+		A6AA385821F5F58000301FB4 /* UploadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadManager.swift; sourceTree = "<group>"; };
+		A6AA385A21F5FA3C00301FB4 /* CacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheManager.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5DD470E217DBE540026C254 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		524575C72228291E000543C0 /* Booking */ = {
+			isa = PBXGroup;
+			children = (
+				520C954F21FF485100231E46 /* Booking.swift */,
+			);
+			path = Booking;
+			sourceTree = "<group>";
+		};
+		526084DE21B6A611001E36A2 /* PROFILE */ = {
+			isa = PBXGroup;
+			children = (
+				526084E421B6A69C001E36A2 /* Wallet.storyboard */,
+			);
+			path = PROFILE;
+			sourceTree = "<group>";
+		};
+		52A0562B21B1497900873C1B /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				52D0D9EE21B185A7005FC75E /* Review.swift */,
+				52A3B0D121BE69C900EC3EC1 /* AlertSheet.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		A58ACC4921907DAB0026ED93 /* REST */ = {
+			isa = PBXGroup;
+			children = (
+				A6F8D0CC21ECBB6200FCEDBA /* SalonREST */,
+				A58ACC5221909D670026ED93 /* REST.swift */,
+			);
+			path = REST;
+			sourceTree = "<group>";
+		};
+		A58ACC4E21907F600026ED93 /* MODELS */ = {
+			isa = PBXGroup;
+			children = (
+				524575C72228291E000543C0 /* Booking */,
+				52A0562B21B1497900873C1B /* Utilities */,
+				52530087221C0FED005EE7D1 /* Filter.swift */,
+			);
+			path = MODELS;
+			sourceTree = "<group>";
+		};
+		A5B3B126217DD664009A27A5 /* STORYBOARDS */ = {
+			isa = PBXGroup;
+			children = (
+				A5B3B135217DF43B009A27A5 /* TabBar */,
+			);
+			path = STORYBOARDS;
+			sourceTree = "<group>";
+		};
+		A5B3B12A217DD7A2009A27A5 /* CONTROLLERS */ = {
+			isa = PBXGroup;
+			children = (
+				A5B3B13A217DF6D9009A27A5 /* TabBarControllers */,
+				A5B3B12B217DD7C9009A27A5 /* Register */,
+			);
+			path = CONTROLLERS;
+			sourceTree = "<group>";
+		};
+		A5B3B12B217DD7C9009A27A5 /* Register */ = {
+			isa = PBXGroup;
+			children = (
+				A562E73B218095090045A62F /* ForgotPasswordController.swift */,
+			);
+			path = Register;
+			sourceTree = "<group>";
+		};
+		A5B3B135217DF43B009A27A5 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				526084DE21B6A611001E36A2 /* PROFILE */,
+				A5B3B136217DF469009A27A5 /* TabBar.storyboard */,
+				A5B3B14B217DF82B009A27A5 /* Bookings.storyboard */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		A5B3B13A217DF6D9009A27A5 /* TabBarControllers */ = {
+			isa = PBXGroup;
+			children = (
+				A5B3B14F217DF96D009A27A5 /* TabBarController.swift */,
+				A5B3B143217DF788009A27A5 /* Booking */,
+			);
+			path = TabBarControllers;
+			sourceTree = "<group>";
+		};
+		A5B3B143217DF788009A27A5 /* Booking */ = {
+			isa = PBXGroup;
+			children = (
+				A5B3B147217DF7C6009A27A5 /* BookingController.swift */,
+			);
+			path = Booking;
+			sourceTree = "<group>";
+		};
+		A5B3B159217E0476009A27A5 /* MANAGERS */ = {
+			isa = PBXGroup;
+			children = (
+				A58ACC4C21907EB70026ED93 /* AccountManager.swift */,
+				52B6D3D021A2B63F0030242A /* EnviromentManager.swift */,
+				A6AA385621F5F53100301FB4 /* OfflineFileManager.swift */,
+				A6AA385821F5F58000301FB4 /* UploadManager.swift */,
+				A6AA385A21F5FA3C00301FB4 /* CacheManager.swift */,
+			);
+			path = MANAGERS;
+			sourceTree = "<group>";
+		};
+		A5DD4708217DBE540026C254 = {
+			isa = PBXGroup;
+			children = (
+				A5DD4713217DBE540026C254 /* luuria */,
+				A5DD4712217DBE540026C254 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A5DD4712217DBE540026C254 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A5DD4711217DBE540026C254 /* luuria.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A5DD4713217DBE540026C254 /* luuria */ = {
+			isa = PBXGroup;
+			children = (
+				5283D97021AFF30A00633CBA /* luuria.entitlements */,
+				A5DD4714217DBE540026C254 /* AppDelegate.swift */,
+				52F5D1CE22400CE300C96B77 /* GoogleService-Info.plist */,
+				A64A8C5E21EF73A10039D0AE /* luuria-Bridging-Header.h */,
+				A5DD4720217DBE550026C254 /* Info.plist */,
+				A58ACC4921907DAB0026ED93 /* REST */,
+				A58ACC4E21907F600026ED93 /* MODELS */,
+				A5B3B159217E0476009A27A5 /* MANAGERS */,
+				A5B3B126217DD664009A27A5 /* STORYBOARDS */,
+				A5B3B12A217DD7A2009A27A5 /* CONTROLLERS */,
+			);
+			path = luuria;
+			sourceTree = "<group>";
+		};
+		A6F8D0CC21ECBB6200FCEDBA /* SalonREST */ = {
+			isa = PBXGroup;
+			children = (
+				520C955121FF494A00231E46 /* BookingREST.swift */,
+			);
+			path = SalonREST;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A5DD4710217DBE540026C254 /* luuria */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5DD4723217DBE550026C254 /* Build configuration list for PBXNativeTarget "luuria" */;
+			buildPhases = (
+				C03412D0ECAA9C61D3A57D5A /* [CP] Check Pods Manifest.lock */,
+				A5DD470D217DBE540026C254 /* Sources */,
+				A5DD470E217DBE540026C254 /* Frameworks */,
+				A5DD470F217DBE540026C254 /* Resources */,
+				85BACC554F8832073CEAC46A /* [CP] Embed Pods Frameworks */,
+				BFF9BF2A34B7E760012A937A /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = luuria;
+			productName = luuria;
+			productReference = A5DD4711217DBE540026C254 /* luuria.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A5DD4709217DBE540026C254 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = luuria;
+				TargetAttributes = {
+					A5DD4710217DBE540026C254 = {
+						CreatedOnToolsVersion = 10.0;
+						LastSwiftMigration = 1030;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = A5DD470C217DBE540026C254 /* Build configuration list for PBXProject "luuria" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				de,
+			);
+			mainGroup = A5DD4708217DBE540026C254;
+			productRefGroup = A5DD4712217DBE540026C254 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A5DD4710217DBE540026C254 /* luuria */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A5DD470F217DBE540026C254 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F5D1CF22400CE300C96B77 /* GoogleService-Info.plist in Resources */,
+				526084E521B6A69C001E36A2 /* Wallet.storyboard in Resources */,
+				A5B3B14C217DF82B009A27A5 /* Bookings.storyboard in Resources */,
+				A5B3B137217DF469009A27A5 /* TabBar.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		85BACC554F8832073CEAC46A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BFF9BF2A34B7E760012A937A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-luuria/Pods-luuria-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C03412D0ECAA9C61D3A57D5A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-luuria-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5DD470D217DBE540026C254 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				520C955221FF494A00231E46 /* BookingREST.swift in Sources */,
+				52B6D3D121A2B63F0030242A /* EnviromentManager.swift in Sources */,
+				A562E73C218095090045A62F /* ForgotPasswordController.swift in Sources */,
+				A5DD4715217DBE540026C254 /* AppDelegate.swift in Sources */,
+				A5B3B150217DF96D009A27A5 /* TabBarController.swift in Sources */,
+				A58ACC4D21907EB70026ED93 /* AccountManager.swift in Sources */,
+				A5B3B148217DF7C6009A27A5 /* BookingController.swift in Sources */,
+				52530088221C0FED005EE7D1 /* Filter.swift in Sources */,
+				520C955021FF485200231E46 /* Booking.swift in Sources */,
+				52D0D9EF21B185A7005FC75E /* Review.swift in Sources */,
+				A6AA385921F5F58000301FB4 /* UploadManager.swift in Sources */,
+				A58ACC5321909D670026ED93 /* REST.swift in Sources */,
+				A6AA385721F5F53100301FB4 /* OfflineFileManager.swift in Sources */,
+				A6AA385B21F5FA3C00301FB4 /* CacheManager.swift in Sources */,
+				52A3B0D221BE69C900EC3EC1 /* AlertSheet.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A5DD4721217DBE550026C254 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A5DD4722217DBE550026C254 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A5DD4724217DBE550026C254 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = luuria/luuria.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C33R9V3FGP;
+				INFOPLIST_FILE = luuria/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.3;
+				PRODUCT_BUNDLE_IDENTIFIER = ch.luuria.luuria;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "luuria/luuria-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		A5DD4725217DBE550026C254 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = luuria/luuria.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C33R9V3FGP;
+				INFOPLIST_FILE = luuria/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.3;
+				PRODUCT_BUNDLE_IDENTIFIER = ch.luuria.luuria;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "luuria/luuria-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A5DD470C217DBE540026C254 /* Build configuration list for PBXProject "luuria" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5DD4721217DBE550026C254 /* Debug */,
+				A5DD4722217DBE550026C254 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5DD4723217DBE550026C254 /* Build configuration list for PBXNativeTarget "luuria" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5DD4724217DBE550026C254 /* Debug */,
+				A5DD4725217DBE550026C254 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A5DD4709217DBE540026C254 /* Project object */;
+}

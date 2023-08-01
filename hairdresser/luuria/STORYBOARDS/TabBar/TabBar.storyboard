@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="PDb-CW-nOz">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="54b-qZ-2CB">
+            <objects>
+                <navigationController navigationBarHidden="YES" id="PDb-CW-nOz" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="9jX-fG-OKz">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="yhB-nt-wFG" kind="relationship" relationship="rootViewController" id="m9M-uk-cOl"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="25h-TK-wqL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1086" y="110"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="Fw8-QH-EPr">
+            <objects>
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="yhB-nt-wFG" customClass="TabBarController" customModule="luuria" customModuleProvider="target" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="v4J-FW-Pyx"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics" translucent="NO"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" translucent="NO" id="xhG-nv-wn5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="selectedImageTintColor" red="0.24313725489999999" green="0.38823529410000002" blue="0.49019607840000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="Qop-87-xLt" kind="relationship" relationship="viewControllers" id="uRA-kp-zem"/>
+                        <segue destination="9jf-TS-e22" kind="relationship" relationship="viewControllers" id="qKP-Gn-j72"/>
+                        <segue destination="eL7-Hh-PLk" kind="relationship" relationship="viewControllers" id="QWP-ZP-4Fi"/>
+                        <segue destination="0kN-Q5-hZT" kind="relationship" relationship="viewControllers" id="r9I-XM-1a6"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MLM-gP-4i5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-270" y="109"/>
+        </scene>
+        <!--BOOKINGS-->
+        <scene sceneID="Q91-E4-XHG">
+            <objects>
+                <navigationController id="9jf-TS-e22" userLabel="BOOKINGS" customClass="InteractivePopNavigationController" customModule="luuria" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="TAB ICON 2 SELECTED" id="SvJ-mc-glp"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="isV-6d-cL5">
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="3Ve-tj-H8K" kind="relationship" relationship="rootViewController" id="nE0-Q4-B5H"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qw0-lq-zSc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="673" y="-272"/>
+        </scene>
+        <!--Bookings-->
+        <scene sceneID="Gux-is-O4K">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Bookings" id="3Ve-tj-H8K" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="BcH-hD-170"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ROi-1y-d3s" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1480" y="-273"/>
+        </scene>
+        <!--Interactive Pop Navigation Controller-->
+        <scene sceneID="Gtb-Dl-zmF">
+            <objects>
+                <navigationController id="0kN-Q5-hZT" customClass="InteractivePopNavigationController" customModule="luuria" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="TAB ICON 5 SELECTED" id="cKP-18-8E6"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="GpJ-bi-rZY">
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="rKU-YR-lQk" kind="relationship" relationship="rootViewController" id="gTB-Yl-T3S"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="gHl-lG-jPr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="673" y="1173"/>
+        </scene>
+        <!--Profile-->
+        <scene sceneID="9L9-aH-172">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Profile" id="rKU-YR-lQk" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="TiH-ab-F3t"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QSM-Xh-epm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1450" y="1173"/>
+        </scene>
+        <!--DISCOVER-->
+        <scene sceneID="aqx-2o-vXI">
+            <objects>
+                <navigationController id="Qop-87-xLt" userLabel="DISCOVER" customClass="InteractivePopNavigationController" customModule="luuria" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="TAB ICON 1 SELECTED" id="1Jg-Pu-QwM"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="vNL-iQ-Ghh">
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="YUX-w0-P4k" kind="relationship" relationship="rootViewController" id="qCx-Yi-xGE"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rim-dW-GC4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="673" y="-1009"/>
+        </scene>
+        <!--Discover-->
+        <scene sceneID="F0R-1i-1QX">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Discover" id="YUX-w0-P4k" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="SbC-6e-FFM"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wo9-Pr-Ri2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1482" y="-1009"/>
+        </scene>
+        <!--FAVORITE-->
+        <scene sceneID="9ZS-v5-Nga">
+            <objects>
+                <navigationController id="eL7-Hh-PLk" userLabel="FAVORITE" customClass="InteractivePopNavigationController" customModule="luuria" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="TAB ICON 3 SELECTED" id="pV0-Bi-yp2"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Cr0-WB-NdM">
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" barStyle="black" id="kTW-7t-70p">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
+                    <connections>
+                        <segue destination="DtS-0R-Q51" kind="relationship" relationship="rootViewController" id="hvn-kG-LCl"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="upL-na-jzG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="673" y="403"/>
+        </scene>
+        <!--Chat-->
+        <scene sceneID="Ng7-nX-MNl">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Chat" id="DtS-0R-Q51" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="5cY-PX-2b0"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8rp-lD-kWk" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1458" y="403"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="TAB ICON 1 SELECTED" width="21" height="23"/>
+        <image name="TAB ICON 2 SELECTED" width="21" height="23"/>
+        <image name="TAB ICON 3 SELECTED" width="23" height="23"/>
+        <image name="TAB ICON 5 SELECTED" width="20.666666030883789" height="23"/>
+    </resources>
+</document>
