@@ -1,6 +1,6 @@
 # Welcome to the Multi-Project Repository! 
 
-This repository contains multiple projects developed for a test phase. Each project is organized into separate folders within this repository. Below, you will find a brief overview of each project along with instructions on how to access and test them.
+This repository contains multiple projects. Each project is organized into separate folders within this repository. Below, you will find a brief overview of each project.
 
 Projects Overview
 
