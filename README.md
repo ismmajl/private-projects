@@ -4,7 +4,9 @@ This repository contains multiple projects developed for a test phase. Each proj
 
 Projects Overview
 Project 1: Hairdresser Description: Empower hairdressers with customer booking management system, simplifying appointment scheduling and providing a seamless experience for salon owners and clients alike.
+
 Project 2: Bike Description: Stay informed about your biking performance, delivering real-time speed details and valuable insights to enhance your cycling experience.
+
 Project 3: Radio Description: Discover and listen to your favorite radio, providing a seamless streaming experience.
 
 # Contact
